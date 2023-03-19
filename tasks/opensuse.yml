@@ -5,6 +5,7 @@
   community.general.zypper:
     name: "{{ distribution_packages }}"
     state: present
+  become: true
   when:
     - ansible_distribution == "openSUSE Tumbleweed"
 
@@ -12,5 +13,6 @@
   community.general.zypper:
     name: "{{ distribution_packages }}"
     state: present
+  become: true
   when:
     - ansible_distribution == "openSUSE MicroOS"
