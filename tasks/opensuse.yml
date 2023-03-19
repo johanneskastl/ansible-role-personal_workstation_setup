@@ -1,0 +1,16 @@
+---
+# personal_workstation_setup/tasks/opensuse.yml
+
+- name: 'Install packages via zypper without a reboot'
+  community.general.zypper:
+    name: "{{ distribution_packages }}"
+    state: present
+  when:
+    - ansible_distribution == "openSUSE Tumbleweed"
+
+- name: 'Install packages via zypper with a reboot'
+  community.general.zypper:
+    name: "{{ distribution_packages }}"
+    state: present
+  when:
+    - ansible_distribution == "openSUSE MicroOS"
