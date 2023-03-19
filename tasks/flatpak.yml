@@ -1,0 +1,26 @@
+---
+# personal_workstation_setup/tasks/flatpak.yml
+
+- name: 'Remove system-wide flathub repository'
+  community.general.flatpak_remote:
+    name: flathub
+    state: absent
+    flatpakrepo_url: "{{ flathub_repository }}"
+    method: "system"
+  become: true
+  when:
+    - not flathub_system | bool
+
+- name: 'Add flathub repository'
+  community.general.flatpak_remote:
+    name: flathub
+    state: present
+    flatpakrepo_url: "{{ flathub_repository }}"
+    method: "{{ 'system' if flathub_system | bool else 'user' }}"
+
+- name: 'Add flatpaks'
+  community.general.flatpak:
+    name: "{{ item }}"
+    state: present
+    method: "{{ 'system' if flathub_system | bool else 'user' }}"
+  loop: "{{ flatpak_packages }}"
