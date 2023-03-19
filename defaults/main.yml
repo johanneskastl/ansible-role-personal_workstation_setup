@@ -1,0 +1,5 @@
+---
+# personal_workstation_setup/defaults/main.yml
+
+flathub_repository: 'https://flathub.org/repo/flathub.flatpakrepo'
+flathub_system: false
