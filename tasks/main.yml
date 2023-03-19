@@ -1,0 +1,20 @@
+---
+# personal_workstation_setup/tasks/main.yml
+
+- name: 'Load variables'
+  ansible.builtin.include_vars: "{{ lookup('ansible.builtin.first_found', parameters) }}"
+  vars:
+    parameters:
+      files:
+        - "vars_{{ ansible_distribution | regex_replace(' ', '_') }}_{{ ansible_distribution_version }}.yml"
+        - "vars_{{ ansible_distribution | regex_replace(' ', '_') }}_{{ ansible_distribution_major_version }}.yml"
+        - "vars_{{ ansible_distribution | regex_replace(' ', '_') }}.yml"
+        - "vars_{{ ansible_os_family | regex_replace(' ', '_') }}.yml"
+      paths:
+        - ../vars/
+
+- name: 'Include tasks from flatpak.yml'
+  ansible.builtin.include_tasks: flatpak.yml
+  tags:
+    - flatpak
+    - installation
