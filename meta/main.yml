@@ -1,0 +1,24 @@
+galaxy_info:
+  role_name: 'personal_workstation_setup'
+  namespace: 'johanneskastl'
+  author: 'Johannes Kastl'
+  description: 'Ansible role to set up my personal workstation (with openSUSE Tumbleweed, openSUSE MicroOS or Fedora Kinoite)'
+  company: 'B1 Systems GmbH'
+
+  license: 'BSD-3-Clause'
+
+  min_ansible_version: '2.12'
+
+  platforms:
+    # Fedora Kinoite
+    - name: Fedora
+      versions:
+        - '37'
+    # openSUSE Tumbleweed or openSUSE MicroOS
+    - name: opensuse
+      versions:
+        - all
+
+  galaxy_tags: []
+
+dependencies: []
