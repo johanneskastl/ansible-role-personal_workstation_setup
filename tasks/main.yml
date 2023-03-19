@@ -13,7 +13,7 @@
       paths:
         - ../vars/
 
-- name: 'Include tasks from flatpak.yml'
+- name: 'Flatpak related tasks'
   ansible.builtin.include_tasks: flatpak.yml
   tags:
     - flatpak
