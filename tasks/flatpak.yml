@@ -24,3 +24,12 @@
     state: present
     method: "{{ 'system' if flathub_system | bool else 'user' }}"
   loop: "{{ flatpak_packages }}"
+
+- name: 'Add additional flatpaks, if desired'
+  community.general.flatpak:
+    name: "{{ item }}"
+    state: present
+    method: "{{ 'system' if flathub_system | bool else 'user' }}"
+  loop: "{{ additional_flatpak_packages }}"
+  when:
+    - additional_flatpak_packages is defined
