@@ -19,8 +19,10 @@ distribution_packages:
   - automake
   - aws-cli
   - azure-cli
+  - bash-completion
   - bat
   - bat-bash-completion
+  - borgbackup
   - borgbackup-bash-completion
   - btrfsprogs
   - build
@@ -118,6 +120,7 @@ distribution_packages:
   - kustomize
   - lego
   - libfprint-doc
+  - libguestfs-bash-completion
   - libvirt
   - linkerd-cli
   - linkerd-cli-bash-completion
@@ -127,6 +130,7 @@ distribution_packages:
   - minicom
   - minio-client
   - modem-manager-gui
+  - ModemManager-bash-completion
   - mokutil
   - molecule
   - molecule-plugins
@@ -177,6 +181,7 @@ distribution_packages:
   - plasma-nm5-openvpn
   - podman
   - popeye
+  - pulseaudio-bash-completion
   - python3-ansible-compat
   - python310-colorama
   - python310-dbus-python
@@ -214,6 +219,7 @@ distribution_packages:
   - spec-cleaner
   - stern
   - subversion
+  - subversion-bash-completion
   - syft
   - teleport-tsh
   - terraform
