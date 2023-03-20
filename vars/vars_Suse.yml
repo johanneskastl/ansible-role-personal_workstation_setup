@@ -16,6 +16,7 @@ distribution_packages:
   - ansible-sign
   - ansible-test
   - apko
+  - apko-bash-completion
   - automake
   - aws-cli
   - azure-cli
@@ -127,6 +128,7 @@ distribution_packages:
   - mariadb
   - mariadb-client
   - melange
+  - melange-bash-completion
   - minicom
   - minio-client
   - modem-manager-gui
@@ -246,4 +248,5 @@ distribution_packages:
   - weechat
   - whois
   - wireshark
+  - wolfictl-bash-completion
   - youtube-dl
