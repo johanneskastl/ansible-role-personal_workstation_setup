@@ -114,6 +114,7 @@ distribution_packages:
   - kubectl-node-shell
   - kubectl-oomd
   - kubectl-outdated
+  - kuberlr
   - kubescape
   - kubeseal
   - kubie
