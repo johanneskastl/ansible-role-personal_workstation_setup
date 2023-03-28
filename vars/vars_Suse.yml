@@ -1,11 +1,6 @@
 ---
 # personal_workstation_setup/vars/vars_Suse.yml
 
-flatpak_packages:
-  - com.slack.Slack
-  - org.zulip.Zulip
-  - io.freetubeapp.FreeTube
-
 distribution_packages:
   - aacgain
   - age
