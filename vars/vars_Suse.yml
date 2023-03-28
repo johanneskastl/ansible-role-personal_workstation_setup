@@ -34,7 +34,6 @@ distribution_packages:
   - checkbashisms
   - cilium-cli
   - cmctl
-  - code
   - codespell
   - devilspie2
   - dino
