@@ -224,6 +224,7 @@ distribution_packages:
   - ShellCheck
   - signal-desktop
   - skaffold
+  - skaffold-bash-completion
   - skopeo
   - spec-cleaner
   - stern
