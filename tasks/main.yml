@@ -12,6 +12,11 @@
         - "vars_{{ ansible_os_family | regex_replace(' ', '_') }}.yml"
       paths:
         - ../vars/
+  tags:
+    - distribution_packages
+    - flatpak
+    - installation
+    - opensuse
 
 - name: 'Flatpak related tasks'
   ansible.builtin.include_tasks: flatpak.yml
