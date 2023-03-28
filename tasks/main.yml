@@ -19,13 +19,13 @@
     - opensuse
 
 - name: 'Flatpak related tasks'
-  ansible.builtin.include_tasks: flatpak.yml
+  ansible.builtin.import_tasks: flatpak.yml
   tags:
     - flatpak
     - installation
 
 - name: 'RPM installation on openSUSE Tumbleweed or MicroOS'
-  ansible.builtin.include_tasks: opensuse.yml
+  ansible.builtin.import_tasks: opensuse.yml
   when:
     - ansible_os_family == "Suse"
     - ansible_distribution == "openSUSE Tumbleweed"
