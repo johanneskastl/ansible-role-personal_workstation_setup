@@ -109,6 +109,8 @@ distribution_packages:
   - keychain
   - knot
   - ktop
+  - kubeaudit
+  - kubeaudit-bash-completion
   - kubectl-community-images
   - kubectl-explore
   - kubectl-foreach
@@ -119,6 +121,8 @@ distribution_packages:
   - kuberlr
   - kubescape
   - kubeseal
+  - kubesec
+  - kubesec-bash-completion
   - kubie
   - kubie-bash-completion
   - kustomize
