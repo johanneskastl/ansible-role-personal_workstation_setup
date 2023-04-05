@@ -156,6 +156,7 @@ distribution_packages:
   - NetworkManager-wwan
   - nmap
   - nova
+  - nova-bash-completion
   - npm-default
   - numactl
   - obs-service-cargo_audit
