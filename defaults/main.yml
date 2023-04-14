@@ -5,5 +5,6 @@ flathub_repository: 'https://flathub.org/repo/flathub.flatpakrepo'
 flathub_system: false
 flatpak_packages:
   - com.slack.Slack
-  - org.zulip.Zulip
+  - com.vscodium.codium
   - io.freetubeapp.FreeTube
+  - org.zulip.Zulip
