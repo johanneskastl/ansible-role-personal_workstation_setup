@@ -139,7 +139,6 @@ distribution_packages:
   - molecule-plugins
   - MozillaThunderbird
   - mtr
-  - mumble
   - mutt
   - mutt-doc
   - neomutt
@@ -158,7 +157,6 @@ distribution_packages:
   - nova
   - nova-bash-completion
   - npm-default
-  - numactl
   - obs-service-cargo_audit
   - obs-service-cargo_vendor
   - obs-service-download_files
