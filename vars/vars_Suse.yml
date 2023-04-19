@@ -251,3 +251,5 @@ distribution_packages:
   - wireshark
   - wolfictl-bash-completion
   - youtube-dl
+  - yubikey-manager
+  - yubikey-manager-qt
