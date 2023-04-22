@@ -130,6 +130,8 @@ distribution_packages:
   - mariadb-client
   - melange
   - melange-bash-completion
+  - mesheryctl
+  - mesheryctl-bash-completion
   - minicom
   - minio-client
   - modem-manager-gui
