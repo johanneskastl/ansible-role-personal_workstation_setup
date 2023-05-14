@@ -7,4 +7,5 @@ flatpak_packages:
   - com.slack.Slack
   - com.vscodium.codium
   - io.freetubeapp.FreeTube
+  - md.obsidian.Obsidian
   - org.zulip.Zulip
