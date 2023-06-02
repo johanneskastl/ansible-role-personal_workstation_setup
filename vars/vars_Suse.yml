@@ -121,6 +121,8 @@ distribution_packages:
   - kubie
   - kubie-bash-completion
   - kustomize
+  - kyverno
+  - kyverno-bash-completion
   - lego
   - libfprint-doc
   - libguestfs-bash-completion
