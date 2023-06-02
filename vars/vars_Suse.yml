@@ -51,6 +51,7 @@ distribution_packages:
   - fd-bash-completion
   - firewalld
   - flux2-cli
+  - flux2-cli-bash-completion
   - fortio
   - fossil
   - fprintd
