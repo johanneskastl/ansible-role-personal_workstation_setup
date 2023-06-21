@@ -210,6 +210,7 @@ distribution_packages:
   - qemu-ui-curses
   - qemu-ui-gtk
   - qsyncthingtray
+  - rdfind
   - rke
   - rke2
   - rpmdevtools
