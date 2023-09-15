@@ -161,6 +161,7 @@ distribution_packages:
   - nmap
   - nova
   - nova-bash-completion
+  - ShellCheck
   - npm-default
   - obs-service-cargo_audit
   - obs-service-cargo_vendor
@@ -220,7 +221,6 @@ distribution_packages:
   - s3cmd
   - salt-master
   - scribus
-  - ShellCheck
   - signal-desktop
   - skaffold
   - skaffold-bash-completion
