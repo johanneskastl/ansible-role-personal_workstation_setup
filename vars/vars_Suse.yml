@@ -229,6 +229,8 @@ distribution_packages:
   - skaffold
   - skaffold-bash-completion
   - skopeo
+  - sonobuoy
+  - sonobuoy-bash-completion
   - spec-cleaner
   - stern
   - subversion
