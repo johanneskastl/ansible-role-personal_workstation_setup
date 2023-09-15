@@ -1,0 +1,4 @@
+# workaround for GitHub Actions bug
+# https://github.com/ansible/ansible-lint/issues/3645
+exclude_paths:
+  - .github
