@@ -60,7 +60,6 @@ distribution_packages:
   - fzf-bash-completion
   - gajim
   - gajim-lang
-  - gajim-plugin-omemo
   - gh
   - gimp
   - git-core
