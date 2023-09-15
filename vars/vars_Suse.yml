@@ -195,13 +195,13 @@ distribution_packages:
   - popeye
   - pulseaudio-bash-completion
   - python3-ansible-compat
+  - python310-Pillow
   - python310-colorama
   - python310-dbus-python
   - python310-jsonschema
   - python310-mkdocs
   - python310-nbxmpp
   - python310-packaging
-  - python310-Pillow
   - python310-podman-compose
   - python310-pre-commit
   - python310-py2pack
