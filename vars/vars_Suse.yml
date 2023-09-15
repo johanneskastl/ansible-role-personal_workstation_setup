@@ -186,6 +186,8 @@ distribution_packages:
   - pam_kwallet
   - pam_u2f
   - patchutils
+  - pinniped
+  - pinniped-bash-completion
   - pipewire-aptx
   - pipewire-lang
   - plasma-nm5-openvpn
