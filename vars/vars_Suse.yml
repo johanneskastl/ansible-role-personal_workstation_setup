@@ -176,6 +176,8 @@ distribution_packages:
   - obs-service-tar
   - obs-service-tar_scm
   - openssh
+  - operator-sdk
+  - operator-sdk-bash-completion
   - osc
   - osclib
   - osv-scanner
