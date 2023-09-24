@@ -64,6 +64,7 @@ distribution_packages:
   - gimp
   - git-core
   - git-crypt
+  - gitea-tea
   - gitleaks
   - glab
   - glab-bash-completion
