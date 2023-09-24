@@ -231,6 +231,7 @@ distribution_packages:
   - skopeo
   - sonobuoy
   - sonobuoy-bash-completion
+  - sops
   - spec-cleaner
   - stern
   - subversion
