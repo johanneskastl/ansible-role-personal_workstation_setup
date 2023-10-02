@@ -200,6 +200,7 @@ distribution_packages:
   - python311-colorama
   - python311-dbus-python
   - python311-jsonschema
+  - python311-kubernetes
   - python311-mkdocs
   - python311-nbxmpp
   - python311-packaging
