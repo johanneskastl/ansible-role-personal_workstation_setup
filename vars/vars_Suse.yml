@@ -177,6 +177,7 @@ distribution_packages:
   - obs-service-tar
   - obs-service-tar_scm
   - openssh
+  - opentofu
   - operator-sdk
   - operator-sdk-bash-completion
   - osc
