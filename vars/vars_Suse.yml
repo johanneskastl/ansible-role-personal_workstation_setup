@@ -98,6 +98,8 @@ distribution_packages:
   - jq
   - k3b
   - k3sup
+  - kbom
+  - kbom-bash-completion
   - kcbench
   - keepassxc
   - keybase-client
