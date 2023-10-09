@@ -106,6 +106,8 @@ distribution_packages:
   - ktop
   - kubeaudit
   - kubeaudit-bash-completion
+  - kubearmor-client
+  - kubearmor-client-bash-completion
   - kubectl-capacity
   - kubectl-community-images
   - kubectl-explore
