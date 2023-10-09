@@ -104,6 +104,8 @@ distribution_packages:
   - keychain
   - knot
   - ktop
+  - kube-linter
+  - kube-linter-bash-completion
   - kubearmor-client
   - kubearmor-client-bash-completion
   - kubeaudit
