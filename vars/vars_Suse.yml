@@ -107,6 +107,7 @@ distribution_packages:
   - keybase-client
   - keychain
   - knot
+  - kor
   - ktop
   - kube-linter
   - kube-linter-bash-completion
