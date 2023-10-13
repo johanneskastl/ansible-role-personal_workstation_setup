@@ -98,6 +98,8 @@ distribution_packages:
   - jq
   - k3b
   - k3sup
+  - k8tz
+  - k8tz-bash-completion
   - kbom
   - kbom-bash-completion
   - kcbench
