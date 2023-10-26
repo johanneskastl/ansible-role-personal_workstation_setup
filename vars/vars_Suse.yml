@@ -12,6 +12,7 @@ distribution_packages:
   - ansible-test
   - apko
   - apko-bash-completion
+  - audit2rbac
   - automake
   - aws-cli
   - azure-cli
