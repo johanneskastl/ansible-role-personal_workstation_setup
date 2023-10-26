@@ -142,6 +142,8 @@ distribution_packages:
   - linkerd-cli-bash-completion
   - mariadb
   - mariadb-client
+  - marvin
+  - marvin-bash-completion
   - melange
   - melange-bash-completion
   - mesheryctl
