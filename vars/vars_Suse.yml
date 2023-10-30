@@ -123,6 +123,7 @@ distribution_packages:
   - kubectl-neat
   - kubectl-node-shell
   - kubectl-oomd
+  - kubectl-operator
   - kubectl-outdated
   - kuberlr
   - kubescape
