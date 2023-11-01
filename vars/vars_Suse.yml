@@ -101,6 +101,7 @@ distribution_packages:
   - k3sup
   - k8tz
   - k8tz-bash-completion
+  - kail
   - kbom
   - kbom-bash-completion
   - kcbench
