@@ -254,6 +254,8 @@ distribution_packages:
   - subversion
   - subversion-bash-completion
   - syft
+  - tekton-cli
+  - tekton-cli-bash-completion
   - teleport-tsh
   - terraform
   - terragrunt
