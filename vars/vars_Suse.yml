@@ -46,7 +46,6 @@ distribution_packages:
   - docker-compose
   - docker-compose-switch
   - docker-lock
-  - dog
   - doh
   - duplicity
   - eksctl
@@ -74,7 +73,6 @@ distribution_packages:
   - glab
   - glab-bash-completion
   - glab-doc
-  - glibc
   - go1.19
   - golang-github-hashicorp-packer
   - got
