@@ -33,6 +33,8 @@ distribution_packages:
   - cilium-cli
   - cmctl
   - codespell
+  - conftest
+  - conftest-bash-completion
   - devilspie2
   - dino
   - dirvish
