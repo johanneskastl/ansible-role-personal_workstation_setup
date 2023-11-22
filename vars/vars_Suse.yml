@@ -144,7 +144,6 @@ distribution_packages:
   - libvirt
   - linkerd-cli
   - linkerd-cli-bash-completion
-  - mariadb
   - mariadb-client
   - marvin
   - marvin-bash-completion
