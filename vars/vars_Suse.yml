@@ -73,7 +73,7 @@ distribution_packages:
   - glab
   - glab-bash-completion
   - glab-doc
-  - go1.19
+  - go1.21
   - golang-github-hashicorp-packer
   - got
   - grype
