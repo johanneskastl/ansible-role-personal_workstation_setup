@@ -89,7 +89,6 @@ distribution_packages:
   - helmfile
   - helmify
   - htop
-  - hub
   - hugo
   - hugo-bash-completion
   - iperf
