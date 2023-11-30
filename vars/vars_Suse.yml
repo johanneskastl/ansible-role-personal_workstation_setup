@@ -36,6 +36,8 @@ distribution_packages:
   - conftest
   - conftest-bash-completion
   - devilspie2
+  - difftastic
+  - difftastic-doc
   - dino
   - dirvish
   - discord
