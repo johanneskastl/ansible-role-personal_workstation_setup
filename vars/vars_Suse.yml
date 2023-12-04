@@ -221,6 +221,7 @@ distribution_packages:
   - python311-mkdocs
   - python311-podman-compose
   - python311-pre-commit
+  - python311-proxmoxer
   - python311-py2pack
   - python311-pytest-testinfra
   - python311-yamllint
