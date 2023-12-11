@@ -280,6 +280,8 @@ distribution_packages:
   - weave-gitops
   - weave-gitops-bash-completion
   - weechat
+  - werf
+  - werf-bash-completion
   - whois
   - wireshark
   - wolfictl-bash-completion
