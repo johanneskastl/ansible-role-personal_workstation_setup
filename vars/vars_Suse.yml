@@ -183,8 +183,7 @@ distribution_packages:
   - nova-bash-completion
   - ShellCheck
   - npm-default
-  - obs-service-cargo_audit
-  - obs-service-cargo_vendor
+  - obs-service-cargo
   - obs-service-download_files
   - obs-service-format_spec_file
   - obs-service-go_modules
