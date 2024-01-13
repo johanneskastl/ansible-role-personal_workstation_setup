@@ -283,6 +283,7 @@ distribution_packages:
   - werf-bash-completion
   - whois
   - wireshark
+  - wolfictl
   - wolfictl-bash-completion
   - youtube-dl
   - yq
