@@ -91,6 +91,8 @@ distribution_packages:
   - helmfile
   - helmify
   - htop
+  - hubble
+  - hubble-bash-completion
   - hugo
   - hugo-bash-completion
   - iperf
