@@ -12,6 +12,8 @@ distribution_packages:
   - ansible-test
   - apko
   - apko-bash-completion
+  - argocd-autopilot
+  - argocd-autopilot-bash-completion
   - argocd-cli
   - argocd-cli-bash-completion
   - audit2rbac
