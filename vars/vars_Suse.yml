@@ -260,6 +260,7 @@ distribution_packages:
   - syft
   - tekton-cli
   - tekton-cli-bash-completion
+  - tempo-cli
   - teleport-tsh
   - terraform
   - terragrunt
