@@ -264,7 +264,6 @@ distribution_packages:
   - tekton-cli-bash-completion
   - tempo-cli
   - teleport-tsh
-  - terraform
   - terragrunt
   - tftp
   - tmux
