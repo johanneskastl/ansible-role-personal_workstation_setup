@@ -17,6 +17,14 @@
   when:
     - ansible_distribution == "openSUSE Tumbleweed"
 
+- name: 'Uninstall packages via zypper with a reboot'
+  community.general.zypper:
+    name: "{{ distribution_packages_to_remove }}"
+    state: absent
+  become: true
+  when:
+    - ansible_distribution == "openSUSE MicroOS"
+
 - name: 'Install packages via zypper with a reboot'
   community.general.zypper:
     name: "{{ distribution_packages }}"
