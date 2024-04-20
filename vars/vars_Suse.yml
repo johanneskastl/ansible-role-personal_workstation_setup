@@ -2,7 +2,7 @@
 # personal_workstation_setup/vars/vars_Suse.yml
 
 distribution_packages_to_remove:
-  - lrzip-0.651
+  - lrzip
 
 distribution_packages:
   - aacgain
