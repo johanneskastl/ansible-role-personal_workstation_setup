@@ -11,7 +11,23 @@ None.
 
 ## Role Variables
 
-None.
+- `additional_flatpak_packages` (List of Strings): List of Flatpaks to install,
+  in addition to the ones in `flatpak_packages` that is role sets (see below)
+- `` (List of Strings):
+
+### Optional variables
+
+- `flatpak_packages` (List of Strings): List of Flatpaks to install
+- `flathub_repository` (String): Flathub repository to use
+  (default: `https://flathub.org/repo/flathub.flatpakrepo`)
+- `flathub_system` (Boolean): Whether to use a `user`-scope or `system`-scope
+  flatpak repository (default: `false`, i.e. `user`-scope)
+
+### Optional variables for openSUSE
+
+- `distribution_packages_to_remove` (List of Strings): RPM packages to be
+  uninstalled
+- `distribution_packages` (List of Strings): RPM packages to be installed
 
 ## Dependencies
 
