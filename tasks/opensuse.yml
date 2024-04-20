@@ -1,6 +1,14 @@
 ---
 # personal_workstation_setup/tasks/opensuse.yml
 
+- name: 'Uninstall packages via zypper without a reboot'
+  community.general.zypper:
+    name: "{{ distribution_packages_to_remove }}"
+    state: absent
+  become: true
+  when:
+    - ansible_distribution == "openSUSE Tumbleweed"
+
 - name: 'Install packages via zypper without a reboot'
   community.general.zypper:
     name: "{{ distribution_packages }}"
