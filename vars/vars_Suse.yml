@@ -243,7 +243,7 @@ distribution_packages:
   - rke2
   - rpmdevtools
   - rpmkey-packman
-  - ruby3.2-rubygem-mdl
+  - ruby3.3-rubygem-mdl
   - rust
   - s3cmd
   - salt-master
