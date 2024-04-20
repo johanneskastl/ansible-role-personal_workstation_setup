@@ -275,7 +275,6 @@ distribution_packages:
   - vagrant-address
   - vagrant-hosts
   - vagrant-libvirt
-  - vagrant-scp
   - virt-install
   - virt-manager
   - virt-viewer
