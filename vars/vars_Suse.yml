@@ -19,6 +19,7 @@ distribution_packages:
   - argocd-autopilot-bash-completion
   - argocd-cli
   - argocd-cli-bash-completion
+  - atril
   - audit2rbac
   - automake
   - aws-cli
@@ -207,6 +208,7 @@ distribution_packages:
   - obs-service-source_validator
   - obs-service-tar
   - obs-service-tar_scm
+  - okular
   - openssh
   - opentofu
   - operator-sdk
