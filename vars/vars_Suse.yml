@@ -58,6 +58,7 @@ distribution_packages:
   - eksctl
   - element-desktop
   - element-web
+  - encfs
   - fd
   - fd-bash-completion
   - firewalld
