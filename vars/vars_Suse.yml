@@ -96,6 +96,9 @@ distribution_packages:
   - helm-docs
   - helmfile
   - helmify
+  - hplip
+  - hplip-hpijs
+  - hplip-sane
   - htop
   - hubble
   - hubble-bash-completion
