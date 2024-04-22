@@ -15,6 +15,15 @@ distribution_packages:
   - MozillaFirefox-branding-openSUSE
   - MozillaFirefox-translations-common
   - MozillaThunderbird
+  - NetworkManager
+  - NetworkManager-applet
+  - NetworkManager-applet-lang
+  - NetworkManager-connection-editor
+  - NetworkManager-lang
+  - NetworkManager-openvpn
+  - NetworkManager-pptp
+  - NetworkManager-tui
+  - NetworkManager-wwan
   - aacgain
   - age
   - ansible
@@ -192,15 +201,6 @@ distribution_packages:
   - neomutt
   - neomutt-doc
   - nerdctl
-  - NetworkManager
-  - NetworkManager-applet
-  - NetworkManager-applet-lang
-  - NetworkManager-connection-editor
-  - NetworkManager-lang
-  - NetworkManager-openvpn
-  - NetworkManager-pptp
-  - NetworkManager-tui
-  - NetworkManager-wwan
   - nmap
   - nova
   - nova-bash-completion
