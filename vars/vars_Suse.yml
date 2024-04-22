@@ -373,6 +373,9 @@ distribution_packages:
   - spectacle
   - spectacle-lang
   - stern
+  - strongswan
+  - strongswan-ipsec
+  - strongswan-libs0
   - subversion
   - subversion-bash-completion
   - syft
