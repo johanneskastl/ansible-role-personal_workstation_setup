@@ -213,6 +213,8 @@ distribution_packages:
   - kubectl-outdated
   - kubectl-pv-migrate
   - kubectl-pv-migrate-bash-completion
+  - kubeone
+  - kubeone-bash-completion
   - kuberlr
   - kubescape
   - kubeseal
