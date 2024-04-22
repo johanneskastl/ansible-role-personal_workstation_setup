@@ -235,6 +235,9 @@ distribution_packages:
   - libfprint-doc
   - libguestfs-bash-completion
   - libvirt
+  - libvirt-client
+  - libvirt-client-qemu
+  - libvirt-daemon
   - linkerd-cli
   - linkerd-cli-bash-completion
   - mariadb-client
