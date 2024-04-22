@@ -378,6 +378,7 @@ distribution_packages:
   - strongswan-libs0
   - subversion
   - subversion-bash-completion
+  - sudo
   - syft
   - tekton-cli
   - tekton-cli-bash-completion
