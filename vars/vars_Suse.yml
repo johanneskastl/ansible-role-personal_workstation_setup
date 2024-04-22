@@ -240,6 +240,7 @@ distribution_packages:
   - libvirt-daemon
   - linkerd-cli
   - linkerd-cli-bash-completion
+  - lsof
   - mariadb-client
   - marvin
   - marvin-bash-completion
