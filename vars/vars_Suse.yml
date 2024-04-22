@@ -153,6 +153,7 @@ distribution_packages:
   - helm-docs
   - helmfile
   - helmify
+  - hostname
   - hplip
   - hplip-hpijs
   - hplip-sane
