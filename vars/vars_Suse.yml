@@ -360,6 +360,8 @@ distribution_packages:
   - salt-master
   - screen
   - scribus
+  - sed
+  - sed-lang
   - signal-desktop
   - skaffold
   - skaffold-bash-completion
