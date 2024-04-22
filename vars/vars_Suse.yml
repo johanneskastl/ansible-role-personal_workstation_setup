@@ -353,6 +353,7 @@ distribution_packages:
   - rke2
   - rpmdevtools
   - rpmkey-packman
+  - rsync
   - ruby3.3-rubygem-mdl
   - rust
   - s3cmd
