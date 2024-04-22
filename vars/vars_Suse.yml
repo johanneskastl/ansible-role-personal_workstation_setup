@@ -133,6 +133,7 @@ distribution_packages:
   - gpg2
   - gpg2-lang
   - gpm
+  - gptfdisk
   - grype
   - gstreamer-plugins-bad
   - gstreamer-plugins-bad-lang
