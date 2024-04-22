@@ -58,6 +58,8 @@ distribution_packages:
   - buildah
   - buildkit
   - bzip2
+  - ca-certificates
+  - ca-certificates-mozilla
   - chart-testing
   - checkbashisms
   - cilium-cli
