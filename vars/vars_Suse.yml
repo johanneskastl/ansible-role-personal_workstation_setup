@@ -288,6 +288,7 @@ distribution_packages:
   - obs-service-tar_scm
   - okular
   - okular-lang
+  - openldap2-client
   - openssh
   - opentofu
   - operator-sdk
