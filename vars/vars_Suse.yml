@@ -307,6 +307,10 @@ distribution_packages:
   - pam_u2f
   - patch
   - patchutils
+  - pavucontrol
+  - pavucontrol-lang
+  - pavucontrol-qt
+  - pavucontrol-qt-lang
   - pinniped
   - pinniped-bash-completion
   - pipewire-aptx
