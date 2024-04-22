@@ -95,6 +95,7 @@ distribution_packages:
   - element-web
   - emacs-nox
   - encfs
+  - ethtool
   - fd
   - fd-bash-completion
   - firewalld
