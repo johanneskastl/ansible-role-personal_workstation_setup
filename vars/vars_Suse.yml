@@ -99,6 +99,8 @@ distribution_packages:
   - evtest
   - fd
   - fd-bash-completion
+  - file
+  - file-magic
   - firewalld
   - flux2-cli
   - flux2-cli-bash-completion
