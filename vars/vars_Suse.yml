@@ -273,6 +273,8 @@ distribution_packages:
   - nova
   - nova-bash-completion
   - npm-default
+  - ntfs-3g
+  - ntfsprogs
   - obs-service-cargo
   - obs-service-download_files
   - obs-service-format_spec_file
