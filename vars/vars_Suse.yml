@@ -423,6 +423,8 @@ distribution_packages:
   - wireshark
   - wolfictl
   - wolfictl-bash-completion
+  - xz
+  - xz-lang
   - youtube-dl
   - yq
   - yubikey-manager
