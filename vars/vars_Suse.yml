@@ -72,6 +72,8 @@ distribution_packages:
   - devilspie2
   - difftastic
   - difftastic-doc
+  - diffutils
+  - diffutils-lang
   - dino
   - dirvish
   - discord
