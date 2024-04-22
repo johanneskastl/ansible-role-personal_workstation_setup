@@ -68,6 +68,7 @@ distribution_packages:
   - codespell
   - conftest
   - conftest-bash-completion
+  - crossplane
   - devilspie2
   - difftastic
   - difftastic-doc
