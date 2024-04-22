@@ -111,6 +111,8 @@ distribution_packages:
   - fossil
   - fprintd
   - fprintd-pam
+  - fuse-overlayfs
+  - fuse3
   - fzf
   - fzf-bash-completion
   - gajim
