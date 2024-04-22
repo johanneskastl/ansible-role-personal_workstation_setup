@@ -263,6 +263,10 @@ distribution_packages:
   - neomutt
   - neomutt-doc
   - nerdctl
+  - nextcloud-cli
+  - nextcloud-desktop
+  - nextcloud-desktop-dolphin
+  - nextcloud-desktop-lang
   - nmap
   - nova
   - nova-bash-completion
