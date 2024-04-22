@@ -21,6 +21,15 @@
   when:
     - ansible_distribution == "openSUSE Tumbleweed"
 
+- name: 'Install additional packages via zypper without a reboot'
+  community.general.zypper:
+    name: "{{ additional_distribution_packages }}"
+    state: present
+  become: true
+  when:
+    - ansible_distribution == "openSUSE Tumbleweed"
+    - additional_distribution_packages is defined
+
 #
 # Tumbleweed with transactional-update
 #
@@ -40,3 +49,12 @@
   become: true
   when:
     - ansible_distribution == "openSUSE MicroOS"
+
+- name: 'Install additional packages via zypper with a reboot'
+  community.general.zypper:
+    name: "{{ additional_distribution_packages }}"
+    state: present
+  become: true
+  when:
+    - ansible_distribution == "openSUSE MicroOS"
+    - additional_distribution_packages is defined
