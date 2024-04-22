@@ -130,6 +130,8 @@ distribution_packages:
   - go1.21
   - golang-github-hashicorp-packer
   - got
+  - gpg2
+  - gpg2-lang
   - grype
   - gstreamer-plugins-bad
   - gstreamer-plugins-bad-lang
