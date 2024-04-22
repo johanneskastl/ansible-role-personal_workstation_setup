@@ -18,6 +18,8 @@ distribution_packages:
   - NetworkManager
   - NetworkManager-applet
   - NetworkManager-applet-lang
+  - NetworkManager-bluetooth
+  - NetworkManager-branding-openSUSE
   - NetworkManager-connection-editor
   - NetworkManager-lang
   - NetworkManager-openvpn
