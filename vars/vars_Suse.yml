@@ -186,6 +186,8 @@ distribution_packages:
   - kbom
   - kbom-bash-completion
   - kcbench
+  - kdialog
+  - kdialog-lang
   - keepassxc
   - keybase-client
   - keychain
