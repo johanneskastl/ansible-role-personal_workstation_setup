@@ -90,7 +90,6 @@ distribution_packages:
   - dosfstools
   - duplicity
   - eksctl
-  - eksctl-bash-completion
   - element-desktop
   - element-web
   - emacs-nox
