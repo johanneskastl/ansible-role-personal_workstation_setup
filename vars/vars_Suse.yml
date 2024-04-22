@@ -62,6 +62,7 @@ distribution_packages:
   - ca-certificates-mozilla
   - chart-testing
   - checkbashisms
+  - cifs-utils
   - cilium-cli
   - cmctl
   - codespell
