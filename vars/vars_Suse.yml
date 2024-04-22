@@ -223,6 +223,10 @@ distribution_packages:
   - kubie
   - kubie-bash-completion
   - kustomize
+  - kwalletd6
+  - kwalletd6-lang
+  - kwalletmanager
+  - kwalletmanager-lang
   - kyverno
   - kyverno-bash-completion
   - lego
