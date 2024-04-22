@@ -385,8 +385,8 @@ distribution_packages:
   - tcpdump
   - tekton-cli
   - tekton-cli-bash-completion
-  - tempo-cli
   - teleport-tsh
+  - tempo-cli
   - terragrunt
   - tftp
   - tmux
