@@ -301,6 +301,7 @@ distribution_packages:
   - osv-scanner
   - ovmf
   - owncloud-client
+  - pam_krb5
   - pam_kwallet
   - pam_u2f
   - patchutils
