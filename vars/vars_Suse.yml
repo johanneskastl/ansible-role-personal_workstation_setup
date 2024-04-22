@@ -408,6 +408,7 @@ distribution_packages:
   - virt-manager
   - virt-viewer
   - vlc
+  - vlc-lang
   - vlc-noX
   - vlc-qt
   - weave-gitops
