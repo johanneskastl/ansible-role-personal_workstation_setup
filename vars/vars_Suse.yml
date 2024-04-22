@@ -80,6 +80,7 @@ distribution_packages:
   - distrobox
   - distrobox-bash-completion
   - dmidecode
+  - dnsmasq
   - docker
   - docker-buildx
   - docker-compose
