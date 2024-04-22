@@ -322,6 +322,7 @@ distribution_packages:
   - pulseaudio-bash-completion
   - pulseaudio-setup
   - pulseaudio-utils
+  - purge-kernels-service
   - python3-ansible-compat
   - python311-jsonschema
   - python311-kubernetes
