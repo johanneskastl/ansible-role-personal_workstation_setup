@@ -137,9 +137,12 @@ distribution_packages:
   - grep
   - grep-lang
   - grype
+  - gstreamer-plugin-openh264
+  - gstreamer-plugin-pipewire
   - gstreamer-plugins-bad
   - gstreamer-plugins-bad-lang
   - gstreamer-plugins-base
+  - gstreamer-plugins-base-lang
   - gstreamer-plugins-ugly
   - gstreamer-plugins-ugly-lang
   - guestfs-tools
