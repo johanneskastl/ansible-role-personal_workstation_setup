@@ -346,6 +346,7 @@ distribution_packages:
   - qemu-ui-gtk
   - qsyncthingtray
   - rdfind
+  - rebootmgr
   - ripgrep
   - ripgrep-bash-completion
   - rke
