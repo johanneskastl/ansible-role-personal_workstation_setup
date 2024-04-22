@@ -26,6 +26,7 @@ distribution_packages:
   - NetworkManager-pptp
   - NetworkManager-tui
   - NetworkManager-wwan
+  - ShellCheck
   - aacgain
   - age
   - ansible
@@ -206,7 +207,6 @@ distribution_packages:
   - nmap
   - nova
   - nova-bash-completion
-  - ShellCheck
   - npm-default
   - obs-service-cargo
   - obs-service-download_files
