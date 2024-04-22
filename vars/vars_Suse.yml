@@ -303,6 +303,7 @@ distribution_packages:
   - owncloud-client
   - pam_krb5
   - pam_kwallet
+  - pam_kwallet-common
   - pam_u2f
   - patchutils
   - pinniped
