@@ -395,6 +395,7 @@ distribution_packages:
   - totem
   - trivy
   - u-boot-tools
+  - unzip
   - vagrant
   - vagrant-address
   - vagrant-hosts
