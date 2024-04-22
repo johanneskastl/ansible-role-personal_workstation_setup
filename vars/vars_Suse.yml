@@ -132,6 +132,7 @@ distribution_packages:
   - got
   - gpg2
   - gpg2-lang
+  - gpm
   - grype
   - gstreamer-plugins-bad
   - gstreamer-plugins-bad-lang
