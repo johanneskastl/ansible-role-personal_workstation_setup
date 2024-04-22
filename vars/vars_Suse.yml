@@ -400,6 +400,10 @@ distribution_packages:
   - vagrant-address
   - vagrant-hosts
   - vagrant-libvirt
+  - vim
+  - vim-data
+  - vim-data-common
+  - vim-small
   - virt-install
   - virt-manager
   - virt-viewer
