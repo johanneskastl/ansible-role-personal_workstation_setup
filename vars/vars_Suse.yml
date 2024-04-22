@@ -320,6 +320,8 @@ distribution_packages:
   - podman
   - popeye
   - pulseaudio-bash-completion
+  - pulseaudio-setup
+  - pulseaudio-utils
   - python3-ansible-compat
   - python311-jsonschema
   - python311-kubernetes
