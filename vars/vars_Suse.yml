@@ -104,6 +104,7 @@ distribution_packages:
   - findutils
   - findutils-lang
   - firewalld
+  - flatpak
   - flux2-cli
   - flux2-cli-bash-completion
   - fortio
