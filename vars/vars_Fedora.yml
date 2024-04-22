@@ -3,6 +3,3 @@
 
 # Fedora Atomic (Silverblue, Kinoite, etc.) prefers to install things via
 # Flatpak
-
-distribution_packages: []
-distribution_packages_to_remove: []

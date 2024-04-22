@@ -2,6 +2,3 @@
 # personal_workstation_setup/vars/vars_Suse.yml
 
 # openSUSE MicroOS prefers to install things via Flatpak
-
-distribution_packages: []
-distribution_packages_to_remove: []

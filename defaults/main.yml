@@ -10,3 +10,5 @@ flatpak_packages:
   - io.freetubeapp.FreeTube
   - md.obsidian.Obsidian
   - org.zulip.Zulip
+distribution_packages: []
+distribution_packages_to_remove: []
