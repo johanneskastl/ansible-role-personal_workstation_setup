@@ -6,6 +6,9 @@ distribution_packages_to_remove:
 
 distribution_packages:
   - 7zip
+  - ImageMagick
+  - ImageMagick-config-7-SUSE
+  - ImageMagick-extra
   - aacgain
   - age
   - ansible
