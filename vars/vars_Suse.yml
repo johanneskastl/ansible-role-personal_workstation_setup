@@ -427,3 +427,4 @@ distribution_packages:
   - yq
   - yubikey-manager
   - yubikey-manager-qt
+  - zypper-log
