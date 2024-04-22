@@ -157,6 +157,7 @@ distribution_packages:
   - hplip
   - hplip-hpijs
   - hplip-sane
+  - hplip-udev-rules
   - htop
   - hubble
   - hubble-bash-completion
