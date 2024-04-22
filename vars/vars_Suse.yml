@@ -134,6 +134,8 @@ distribution_packages:
   - gpg2-lang
   - gpm
   - gptfdisk
+  - grep
+  - grep-lang
   - grype
   - gstreamer-plugins-bad
   - gstreamer-plugins-bad-lang
