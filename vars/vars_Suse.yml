@@ -166,6 +166,8 @@ distribution_packages:
   - inkscape
   - inkscape-lang
   - iperf
+  - iproute2
+  - iputils
   - irqbalance
   - istioctl
   - istioctl-bash-completion
