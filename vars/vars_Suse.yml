@@ -79,6 +79,7 @@ distribution_packages:
   - discord
   - distrobox
   - distrobox-bash-completion
+  - dmidecode
   - docker
   - docker-buildx
   - docker-compose
