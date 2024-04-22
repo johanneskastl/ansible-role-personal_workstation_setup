@@ -9,6 +9,8 @@ distribution_packages:
   - ImageMagick
   - ImageMagick-config-7-SUSE
   - ImageMagick-extra
+  - ModemManager
+  - ModemManager-bash-completion
   - aacgain
   - age
   - ansible
@@ -177,7 +179,6 @@ distribution_packages:
   - minicom
   - minio-client
   - modem-manager-gui
-  - ModemManager-bash-completion
   - mokutil
   - molecule
   - molecule-plugins
