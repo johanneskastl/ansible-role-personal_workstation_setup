@@ -418,6 +418,7 @@ distribution_packages:
   - werf-bash-completion
   - wget
   - wget-lang
+  - which
   - whois
   - wireshark
   - wolfictl
