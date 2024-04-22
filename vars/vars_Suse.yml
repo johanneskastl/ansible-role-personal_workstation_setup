@@ -380,6 +380,8 @@ distribution_packages:
   - subversion-bash-completion
   - sudo
   - syft
+  - tar
+  - tar-lang
   - tekton-cli
   - tekton-cli-bash-completion
   - tempo-cli
