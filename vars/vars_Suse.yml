@@ -117,6 +117,7 @@ distribution_packages:
   - fzf-bash-completion
   - gajim
   - gajim-lang
+  - gawk
   - gh
   - gimp
   - git-core
