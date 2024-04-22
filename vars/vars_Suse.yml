@@ -93,6 +93,7 @@ distribution_packages:
   - eksctl-bash-completion
   - element-desktop
   - element-web
+  - emacs-nox
   - encfs
   - fd
   - fd-bash-completion
