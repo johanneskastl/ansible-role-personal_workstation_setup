@@ -27,6 +27,7 @@ distribution_packages:
   - bash-completion
   - bat
   - bat-bash-completion
+  - bind-utils
   - borgbackup
   - borgbackup-bash-completion
   - btrfsprogs
