@@ -382,6 +382,7 @@ distribution_packages:
   - syft
   - tar
   - tar-lang
+  - tcpdump
   - tekton-cli
   - tekton-cli-bash-completion
   - tempo-cli
