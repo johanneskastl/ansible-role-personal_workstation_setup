@@ -416,6 +416,8 @@ distribution_packages:
   - weechat
   - werf
   - werf-bash-completion
+  - wget
+  - wget-lang
   - whois
   - wireshark
   - wolfictl
