@@ -57,6 +57,7 @@ distribution_packages:
   - build-mkbaselibs
   - buildah
   - buildkit
+  - bzip2
   - chart-testing
   - checkbashisms
   - cilium-cli
