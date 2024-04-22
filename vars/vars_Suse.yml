@@ -87,6 +87,7 @@ distribution_packages:
   - docker-compose-switch
   - docker-lock
   - doh
+  - dosfstools
   - duplicity
   - eksctl
   - element-desktop
