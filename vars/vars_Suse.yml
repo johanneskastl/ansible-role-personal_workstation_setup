@@ -391,6 +391,7 @@ distribution_packages:
   - tftp
   - tmux
   - tokodon
+  - toolbox
   - totem
   - trivy
   - u-boot-tools
