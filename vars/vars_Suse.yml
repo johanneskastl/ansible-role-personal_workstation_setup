@@ -251,6 +251,7 @@ distribution_packages:
   - mesheryctl
   - mesheryctl-bash-completion
   - minicom
+  - minicom-lang
   - minio-client
   - modem-manager-gui
   - mokutil
