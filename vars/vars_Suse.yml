@@ -193,6 +193,8 @@ distribution_packages:
   - keychain
   - knot
   - kor
+  - ksshaskpass5
+  - ksshaskpass5-lang
   - ktop
   - kube-linter
   - kube-linter-bash-completion
