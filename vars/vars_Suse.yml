@@ -329,6 +329,7 @@ distribution_packages:
   - python311-jsonschema
   - python311-kubernetes
   - python311-mkdocs
+  - python311-passlib
   - python311-podman-compose
   - python311-pre-commit
   - python311-proxmoxer
