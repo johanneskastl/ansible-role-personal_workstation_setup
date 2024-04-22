@@ -290,6 +290,9 @@ distribution_packages:
   - okular-lang
   - openldap2-client
   - openssh
+  - openssh-clients
+  - openssh-common
+  - openssh-server
   - opentofu
   - operator-sdk
   - operator-sdk-bash-completion
