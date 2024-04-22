@@ -14,6 +14,7 @@ distribution_packages:
   - MozillaFirefox
   - MozillaFirefox-branding-openSUSE
   - MozillaFirefox-translations-common
+  - MozillaThunderbird
   - aacgain
   - age
   - ansible
@@ -185,7 +186,6 @@ distribution_packages:
   - mokutil
   - molecule
   - molecule-plugins
-  - MozillaThunderbird
   - mtr
   - mutt
   - mutt-doc
