@@ -163,6 +163,8 @@ distribution_packages:
   - hubble-bash-completion
   - hugo
   - hugo-bash-completion
+  - inkscape
+  - inkscape-lang
   - iperf
   - irqbalance
   - istioctl
