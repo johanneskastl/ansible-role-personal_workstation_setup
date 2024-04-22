@@ -230,6 +230,7 @@ distribution_packages:
   - kyverno
   - kyverno-bash-completion
   - lego
+  - less
   - libfprint
   - libfprint-doc
   - libguestfs-bash-completion
