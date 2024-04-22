@@ -146,6 +146,7 @@ distribution_packages:
   - gstreamer-plugins-ugly
   - gstreamer-plugins-ugly-lang
   - guestfs-tools
+  - gzip
   - helm
   - helm-bash-completion
   - helm-docs
