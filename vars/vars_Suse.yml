@@ -11,6 +11,9 @@ distribution_packages:
   - ImageMagick-extra
   - ModemManager
   - ModemManager-bash-completion
+  - MozillaFirefox
+  - MozillaFirefox-branding-openSUSE
+  - MozillaFirefox-translations-common
   - aacgain
   - age
   - ansible
