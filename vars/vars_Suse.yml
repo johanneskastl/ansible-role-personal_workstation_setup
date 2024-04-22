@@ -180,6 +180,9 @@ distribution_packages:
   - k8tz
   - k8tz-bash-completion
   - kail
+  - kate
+  - kate-lang
+  - kate-plugins
   - kbom
   - kbom-bash-completion
   - kcbench
