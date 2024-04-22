@@ -325,6 +325,7 @@ distribution_packages:
   - purge-kernels-service
   - python3-ansible-compat
   - python311-PyYAML
+  - python311-awx-cli
   - python311-jsonschema
   - python311-kubernetes
   - python311-mkdocs
