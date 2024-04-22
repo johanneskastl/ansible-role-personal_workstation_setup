@@ -267,6 +267,8 @@ distribution_packages:
   - nextcloud-desktop
   - nextcloud-desktop-dolphin
   - nextcloud-desktop-lang
+  - nfs-client
+  - nfs-kernel-server
   - nmap
   - nova
   - nova-bash-completion
