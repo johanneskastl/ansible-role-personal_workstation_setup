@@ -305,6 +305,7 @@ distribution_packages:
   - pam_kwallet
   - pam_kwallet-common
   - pam_u2f
+  - patch
   - patchutils
   - pinniped
   - pinniped-bash-completion
