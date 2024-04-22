@@ -370,6 +370,8 @@ distribution_packages:
   - sonobuoy-bash-completion
   - sops
   - spec-cleaner
+  - spectacle
+  - spectacle-lang
   - stern
   - subversion
   - subversion-bash-completion
