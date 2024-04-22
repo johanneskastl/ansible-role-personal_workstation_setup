@@ -1,1 +1,8 @@
 ---
+# personal_workstation_setup/vars/vars_Suse.yml
+
+# Fedora Atomic (Silverblue, Kinoite, etc.) prefers to install things via
+# Flatpak
+
+distribution_packages: []
+distribution_packages_to_remove: []
