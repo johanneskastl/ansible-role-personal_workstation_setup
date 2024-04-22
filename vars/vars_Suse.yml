@@ -96,6 +96,7 @@ distribution_packages:
   - emacs-nox
   - encfs
   - ethtool
+  - evtest
   - fd
   - fd-bash-completion
   - firewalld
