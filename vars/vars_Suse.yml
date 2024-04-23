@@ -3,6 +3,7 @@
 
 distribution_packages_to_remove:
   - lrzip
+  - discover6-backend-packagekit
 
 distribution_packages:
   - 7zip
