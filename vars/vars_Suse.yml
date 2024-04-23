@@ -322,6 +322,8 @@ distribution_packages:
   - pipewire-aptx
   - pipewire-lang
   - plasma-nm5-openvpn
+  - plasmatube
+  - plasmatube-lang
   - podman
   - popeye
   - pulseaudio-bash-completion
