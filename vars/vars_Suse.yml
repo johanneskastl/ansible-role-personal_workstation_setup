@@ -62,6 +62,7 @@ distribution_packages:
   - build-mkbaselibs
   - buildah
   - buildkit
+  - butane
   - bzip2
   - ca-certificates
   - ca-certificates-mozilla
