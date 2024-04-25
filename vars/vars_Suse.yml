@@ -259,6 +259,7 @@ distribution_packages:
   - minicom
   - minicom-lang
   - minio-client
+  - mkosi
   - modem-manager-gui
   - mokutil
   - molecule
