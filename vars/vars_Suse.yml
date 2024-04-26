@@ -382,6 +382,7 @@ distribution_packages:
   - spec-cleaner
   - spectacle
   - spectacle-lang
+  - squashfs
   - stern
   - strongswan
   - strongswan-ipsec
