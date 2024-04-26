@@ -247,6 +247,7 @@ distribution_packages:
   - linkerd-cli
   - linkerd-cli-bash-completion
   - lsof
+  - make
   - mariadb-client
   - marvin
   - marvin-bash-completion
