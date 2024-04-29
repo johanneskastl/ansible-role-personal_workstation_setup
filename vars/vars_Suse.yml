@@ -221,6 +221,8 @@ distribution_packages:
   - kubectl-pv-migrate-bash-completion
   - kubeone
   - kubeone-bash-completion
+  - kubepug
+  - kubepuge-bash-completion
   - kuberlr
   - kubescape
   - kubeseal
