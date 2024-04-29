@@ -375,6 +375,7 @@ distribution_packages:
   - sed
   - sed-lang
   - signal-desktop
+  - silver-surfer
   - skaffold
   - skaffold-bash-completion
   - skopeo
