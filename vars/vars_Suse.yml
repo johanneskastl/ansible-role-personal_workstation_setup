@@ -46,6 +46,8 @@ distribution_packages:
   - argocd-autopilot-bash-completion
   - argocd-cli
   - argocd-cli-bash-completion
+  - argocd-image-updater
+  - argocd-image-updater-bash-completion
   - atril
   - audit2rbac
   - automake
