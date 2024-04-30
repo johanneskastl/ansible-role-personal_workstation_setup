@@ -37,6 +37,7 @@ distribution_packages:
   - ansible
   - ansible-builder
   - ansible-core
+  - ansible-documentation
   - ansible-lint
   - ansible-sign
   - ansible-test
