@@ -39,6 +39,7 @@ distribution_packages:
   - ansible-core
   - ansible-documentation
   - ansible-lint
+  - ansible-navigator
   - ansible-sign
   - ansible-test
   - apko
