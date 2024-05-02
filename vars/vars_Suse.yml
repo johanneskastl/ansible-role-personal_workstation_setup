@@ -159,6 +159,8 @@ distribution_packages:
   - gstreamer-plugins-ugly-lang
   - guestfs-tools
   - gzip
+  - harbor-cli
+  - harbor-cli-bash-completion
   - hdparm
   - helm
   - helm-bash-completion
