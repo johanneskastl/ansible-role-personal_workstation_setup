@@ -205,6 +205,14 @@ distribution_packages:
   - keepassxc
   - keybase-client
   - keychain
+  - knative-cli
+  - knative-cli-bash-completion
+  - knative-cli-func-plugin
+  - knative-cli-func-plugin-bash-completion
+  - knative-cli-operator-plugin
+  - knative-cli-operator-plugin-bash-completion
+  - knative-cli-quickstart-plugin
+  - knative-cli-quickstart-plugin-bash-completion
   - knot
   - kor
   - ksshaskpass6
