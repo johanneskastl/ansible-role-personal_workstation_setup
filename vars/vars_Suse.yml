@@ -238,7 +238,7 @@ distribution_packages:
   - kubeone
   - kubeone-bash-completion
   - kubepug
-  - kubepuge-bash-completion
+  - kubepug-bash-completion
   - kuberlr
   - kubescape
   - kubeseal
