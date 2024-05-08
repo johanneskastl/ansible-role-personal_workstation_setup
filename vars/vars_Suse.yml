@@ -225,6 +225,8 @@ distribution_packages:
   - kubeaudit
   - kubeaudit-bash-completion
   - kubectl-capacity
+  - kubectl-cnpg
+  - kubectl-cnpg-bash-completion
   - kubectl-community-images
   - kubectl-explore
   - kubectl-foreach
