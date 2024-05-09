@@ -230,6 +230,8 @@ distribution_packages:
   - kubectl-community-images
   - kubectl-explore
   - kubectl-foreach
+  - kubectl-get-all
+  - kubectl-get-all-bash-completion
   - kubectl-neat
   - kubectl-node-shell
   - kubectl-oomd
