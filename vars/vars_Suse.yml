@@ -44,6 +44,7 @@ distribution_packages:
   - ansible-sign
   - ansible-test
   - ansible-variables
+  - apache2-utils
   - apko
   - apko-bash-completion
   - argocd-autopilot
