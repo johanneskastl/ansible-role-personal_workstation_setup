@@ -80,6 +80,7 @@ distribution_packages:
   - codespell
   - conftest
   - conftest-bash-completion
+  - coreos-installer
   - crossplane
   - devilspie2
   - difftastic
