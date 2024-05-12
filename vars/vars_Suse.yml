@@ -142,7 +142,6 @@ distribution_packages:
   - glab-bash-completion
   - glab-doc
   - go1.22
-  - golang-github-hashicorp-packer
   - got
   - gpg2
   - gpg2-lang
