@@ -186,7 +186,6 @@ distribution_packages:
   - iproute2
   - iptables
   - iputils
-  - irqbalance
   - istioctl
   - istioctl-bash-completion
   - isync
