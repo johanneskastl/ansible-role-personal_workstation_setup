@@ -332,8 +332,8 @@ distribution_packages:
   - osv-scanner
   - ovmf
   - pam_krb5
-  - pam_kwallet
-  - pam_kwallet-common
+  - pam_kwallet6
+  - pam_kwallet6-common
   - pam_u2f
   - patch
   - patchutils
