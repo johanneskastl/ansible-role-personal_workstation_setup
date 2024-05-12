@@ -385,6 +385,8 @@ distribution_packages:
   - ripgrep-bash-completion
   - rke
   - rke2
+  - roxctl
+  - roxctl-bash-completion
   - rpmdevtools
   - rpmkey-packman
   - rsync
