@@ -151,6 +151,7 @@ distribution_packages:
   - grep
   - grep-lang
   - grype
+  - grype-bash-completion
   - gstreamer-plugin-openh264
   - gstreamer-plugin-pipewire
   - gstreamer-plugins-bad
@@ -418,6 +419,7 @@ distribution_packages:
   - subversion-bash-completion
   - sudo
   - syft
+  - syft-bash-completion
   - tar
   - tar-lang
   - tcpdump
