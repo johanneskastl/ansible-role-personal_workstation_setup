@@ -331,7 +331,6 @@ distribution_packages:
   - osclib
   - osv-scanner
   - ovmf
-  - owncloud-client
   - pam_krb5
   - pam_kwallet
   - pam_kwallet-common
