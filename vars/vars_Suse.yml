@@ -317,6 +317,8 @@ distribution_packages:
   - obs-service-source_validator
   - obs-service-tar
   - obs-service-tar_scm
+  - observatorium-cli
+  - observatorium-cli-bash-completion
   - okular
   - okular-lang
   - openldap2-client
