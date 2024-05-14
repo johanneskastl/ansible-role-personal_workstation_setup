@@ -269,6 +269,7 @@ distribution_packages:
   - libvirt-daemon
   - linkerd-cli
   - linkerd-cli-bash-completion
+  - locutus
   - lsof
   - make
   - mariadb-client
