@@ -331,6 +331,7 @@ distribution_packages:
   - operator-sdk
   - operator-sdk-bash-completion
   - osc
+  - osc-plugin-pcheck
   - osclib
   - osv-scanner
   - ovmf
