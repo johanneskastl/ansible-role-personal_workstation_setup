@@ -352,6 +352,8 @@ distribution_packages:
   - plasma-nm5-openvpn
   - plasmatube
   - plasmatube-lang
+  - pluto
+  - pluto-bash-completion
   - podman
   - popeye
   - pulseaudio-bash-completion
