@@ -382,7 +382,6 @@ distribution_packages:
   - qemu-linux-user
   - qemu-ui-curses
   - qemu-ui-gtk
-  - qsyncthingtray
   - rdfind
   - rebootmgr
   - ripgrep
