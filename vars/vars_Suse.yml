@@ -111,6 +111,8 @@ distribution_packages:
   - encfs
   - ethtool
   - evtest
+  - falco-event-generator
+  - falco-event-generator-bash-completion
   - fd
   - fd-bash-completion
   - file
