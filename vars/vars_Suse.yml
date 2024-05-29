@@ -420,6 +420,8 @@ distribution_packages:
   - spectacle
   - spectacle-lang
   - squashfs
+  - step-cli
+  - step-cli-bash-completion
   - stern
   - strongswan
   - strongswan-ipsec
