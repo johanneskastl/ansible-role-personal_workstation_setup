@@ -82,6 +82,7 @@ distribution_packages:
   - conftest
   - conftest-bash-completion
   - coreos-installer
+  - cosign
   - crossplane
   - devilspie2
   - difftastic
