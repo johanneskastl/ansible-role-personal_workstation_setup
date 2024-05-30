@@ -81,6 +81,8 @@ distribution_packages:
   - codespell
   - conftest
   - conftest-bash-completion
+  - copacetic
+  - copacetic-bash-completion
   - coreos-installer
   - cosign
   - crane
