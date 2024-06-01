@@ -473,6 +473,7 @@ distribution_packages:
   - wget-lang
   - which
   - whois
+  - wireguard-tools
   - wireshark
   - wolfictl
   - wolfictl-bash-completion
