@@ -73,6 +73,8 @@ distribution_packages:
   - bzip2
   - ca-certificates
   - ca-certificates-mozilla
+  - cdebug
+  - cdebug-bash-completion
   - chart-testing
   - checkbashisms
   - cifs-utils
