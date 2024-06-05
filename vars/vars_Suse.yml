@@ -249,6 +249,7 @@ distribution_packages:
   - kubectl-outdated
   - kubectl-pv-migrate
   - kubectl-pv-migrate-bash-completion
+  - kubectl-view-secret
   - kubeone
   - kubeone-bash-completion
   - kubepug
