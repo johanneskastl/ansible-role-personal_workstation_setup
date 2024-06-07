@@ -351,6 +351,8 @@ distribution_packages:
   - pam_kwallet6
   - pam_kwallet6-common
   - pam_u2f
+  - paranoia
+  - paranoia-bash-completion
   - patch
   - patchutils
   - pavucontrol
