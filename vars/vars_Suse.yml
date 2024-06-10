@@ -215,6 +215,8 @@ distribution_packages:
   - keepassxc
   - keybase-client
   - keychain
+  - klog
+  - klog-bash-completion
   - knative-cli
   - knative-cli-bash-completion
   - knative-cli-func-plugin
