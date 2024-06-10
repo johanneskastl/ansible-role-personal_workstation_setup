@@ -133,6 +133,8 @@ distribution_packages:
   - fossil
   - fprintd
   - fprintd-pam
+  - frizbee
+  - frizbee-bash-completion
   - fuse-overlayfs
   - fuse3
   - fzf
