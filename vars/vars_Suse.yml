@@ -309,6 +309,8 @@ distribution_packages:
   - neomutt
   - neomutt-doc
   - nerdctl
+  - netfetch
+  - netfetch-bash-completion
   - nextcloud-cli
   - nextcloud-desktop
   - nextcloud-desktop-dolphin
