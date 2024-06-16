@@ -80,6 +80,8 @@ distribution_packages:
   - cifs-utils
   - cilium-cli
   - cilium-cli-bash-completion
+  - clusterctl
+  - clusterctl-bash-completion
   - cmctl
   - codespell
   - conftest
