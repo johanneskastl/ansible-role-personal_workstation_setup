@@ -79,6 +79,7 @@ distribution_packages:
   - checkbashisms
   - cifs-utils
   - cilium-cli
+  - cilium-cli-bash-completion
   - cmctl
   - codespell
   - conftest
