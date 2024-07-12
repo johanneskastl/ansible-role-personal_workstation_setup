@@ -396,6 +396,7 @@ distribution_packages:
   - python3-ansible-compat
   - python311-PyYAML
   - python311-awx-cli
+  - python311-hvac
   - python311-jsonschema
   - python311-kubernetes
   - python311-mkdocs
