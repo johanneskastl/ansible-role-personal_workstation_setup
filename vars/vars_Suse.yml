@@ -162,6 +162,8 @@ distribution_packages:
   - gpg2-lang
   - gpm
   - gptfdisk
+  - grant
+  - grant-bash-completion
   - grep
   - grep-lang
   - grype
