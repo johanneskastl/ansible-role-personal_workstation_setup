@@ -92,6 +92,8 @@ distribution_packages:
   - cosign
   - crane
   - crossplane
+  - csctl
+  - csctl-bash-completion
   - devilspie2
   - difftastic
   - difftastic-doc
