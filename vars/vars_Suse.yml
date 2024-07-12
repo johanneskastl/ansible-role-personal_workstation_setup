@@ -325,6 +325,7 @@ distribution_packages:
   - nfs-client
   - nfs-kernel-server
   - nmap
+  - notary
   - nova
   - nova-bash-completion
   - npm-default
