@@ -356,6 +356,8 @@ distribution_packages:
   - opentofu
   - operator-sdk
   - operator-sdk-bash-completion
+  - oras
+  - oras-bash-completion
   - osc
   - osc-plugin-pcheck
   - osclib
