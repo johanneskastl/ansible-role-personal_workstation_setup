@@ -219,6 +219,8 @@ distribution_packages:
   - kbom
   - kbom-bash-completion
   - kcbench
+  - kdenlive
+  - kdenlive-lang
   - kdialog
   - kdialog-lang
   - keepassxc
