@@ -73,6 +73,7 @@ distribution_packages:
   - bzip2
   - ca-certificates
   - ca-certificates-mozilla
+  - certgen
   - cdebug
   - cdebug-bash-completion
   - chart-testing
