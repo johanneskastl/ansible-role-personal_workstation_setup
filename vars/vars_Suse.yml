@@ -462,6 +462,8 @@ distribution_packages:
   - sudo
   - syft
   - syft-bash-completion
+  - talhelper
+  - talhelper-bash-completion
   - talosctl
   - talosctl-bash-completion
   - tar
