@@ -354,6 +354,7 @@ distribution_packages:
   - observatorium-cli-bash-completion
   - okular
   - okular-lang
+  - openbao
   - openldap2-client
   - openssh
   - openssh-clients
