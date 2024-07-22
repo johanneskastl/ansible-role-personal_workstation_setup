@@ -69,6 +69,8 @@ distribution_packages:
   - build-mkbaselibs
   - buildah
   - buildkit
+  - buildpacks-cli
+  - buildpacks-cli-bash-completion
   - butane
   - bzip2
   - ca-certificates
