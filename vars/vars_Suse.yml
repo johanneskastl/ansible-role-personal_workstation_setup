@@ -383,7 +383,6 @@ distribution_packages:
   - pavucontrol-lang
   - pavucontrol-qt
   - pavucontrol-qt-lang
-  - pdftk
   - pinentry-qt5
   - pinniped
   - pinniped-bash-completion
@@ -396,6 +395,7 @@ distribution_packages:
   - pluto-bash-completion
   - podman
   - popeye
+  - poppler-tools
   - pulseaudio-bash-completion
   - pulseaudio-setup
   - pulseaudio-utils
