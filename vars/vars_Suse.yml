@@ -383,6 +383,7 @@ distribution_packages:
   - pavucontrol-lang
   - pavucontrol-qt
   - pavucontrol-qt-lang
+  - pdftk
   - pinentry-qt5
   - pinniped
   - pinniped-bash-completion
