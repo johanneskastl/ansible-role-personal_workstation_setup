@@ -191,6 +191,7 @@ distribution_packages:
   - helm-docs
   - helmfile
   - helmify
+  - hetzner-flatcar
   - hostname
   - hplip
   - hplip-hpijs
