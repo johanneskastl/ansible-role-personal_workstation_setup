@@ -124,6 +124,7 @@ distribution_packages:
   - emacs-nox
   - encfs
   - ethtool
+  - exiftool
   - evtest
   - falco-event-generator
   - falco-event-generator-bash-completion
