@@ -278,6 +278,7 @@ distribution_packages:
   - kubeseal
   - kubesec
   - kubesec-bash-completion
+  - kubetrim
   - kubie
   - kubie-bash-completion
   - kustomize
