@@ -387,6 +387,8 @@ distribution_packages:
   - pavucontrol-lang
   - pavucontrol-qt
   - pavucontrol-qt-lang
+  - perses-cli
+  - perses-cli-bash-completion
   - pinentry-qt5
   - pinniped
   - pinniped-bash-completion
