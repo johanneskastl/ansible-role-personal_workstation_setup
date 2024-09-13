@@ -266,6 +266,8 @@ distribution_packages:
   - kubectl-oomd
   - kubectl-operator
   - kubectl-outdated
+  - kubectl-retina
+  - kubectl-retina-bash-completion
   - kubectl-pv-migrate
   - kubectl-pv-migrate-bash-completion
   - kubectl-view-secret
