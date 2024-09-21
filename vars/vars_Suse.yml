@@ -186,6 +186,8 @@ distribution_packages:
   - hadolint
   - harbor-cli
   - harbor-cli-bash-completion
+  - hcloud-cli
+  - hcloud-cli-bash-completion
   - hdparm
   - helm
   - helm-bash-completion
