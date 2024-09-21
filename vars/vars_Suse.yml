@@ -94,7 +94,7 @@ distribution_packages:
   - coreos-installer
   - cosign
   - crane
-  - crossplane
+  - crossplane-cli
   - csctl
   - csctl-bash-completion
   - devilspie2
