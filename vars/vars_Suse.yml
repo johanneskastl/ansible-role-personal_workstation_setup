@@ -411,7 +411,6 @@ distribution_packages:
   - python3-pynitrokey
   - python311-PyYAML
   - python311-awx-cli
-  - python311-hcloud
   - python311-hvac
   - python311-jsonschema
   - python311-kubernetes
