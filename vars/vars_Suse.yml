@@ -246,6 +246,7 @@ distribution_packages:
   - knative-cli-quickstart-plugin-bash-completion
   - knot
   - kor
+  - korb
   - ksshaskpass6
   - ksshaskpass6-lang
   - ktop
