@@ -107,6 +107,7 @@ distribution_packages:
   - discord
   - distrobox
   - distrobox-bash-completion
+  - dive
   - dmidecode
   - dnsmasq
   - docker
