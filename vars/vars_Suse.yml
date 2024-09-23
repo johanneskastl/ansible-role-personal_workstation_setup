@@ -409,6 +409,7 @@ distribution_packages:
   - pluto
   - pluto-bash-completion
   - podman
+  - podlet
   - popeye
   - poppler-tools
   - pulseaudio-bash-completion
