@@ -438,6 +438,8 @@ distribution_packages:
   - rebootmgr
   - regclient
   - regclient-bash-completion
+  - reimage
+  - reimage-bash-completion
   - ripgrep
   - ripgrep-bash-completion
   - rke
