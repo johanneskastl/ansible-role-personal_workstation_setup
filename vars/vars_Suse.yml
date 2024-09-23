@@ -478,6 +478,7 @@ distribution_packages:
   - sudo
   - syft
   - syft-bash-completion
+  - tabloid
   - talhelper
   - talhelper-bash-completion
   - talosctl
