@@ -75,9 +75,9 @@ distribution_packages:
   - bzip2
   - ca-certificates
   - ca-certificates-mozilla
-  - certgen
   - cdebug
   - cdebug-bash-completion
+  - certgen
   - chart-testing
   - checkbashisms
   - cifs-utils
@@ -125,8 +125,8 @@ distribution_packages:
   - emacs-nox
   - encfs
   - ethtool
-  - exiftool
   - evtest
+  - exiftool
   - falco-event-generator
   - falco-event-generator-bash-completion
   - fd
@@ -271,10 +271,10 @@ distribution_packages:
   - kubectl-oomd
   - kubectl-operator
   - kubectl-outdated
-  - kubectl-retina
-  - kubectl-retina-bash-completion
   - kubectl-pv-migrate
   - kubectl-pv-migrate-bash-completion
+  - kubectl-retina
+  - kubectl-retina-bash-completion
   - kubectl-view-secret
   - kubeone
   - kubeone-bash-completion
