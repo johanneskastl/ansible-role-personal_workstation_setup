@@ -266,6 +266,7 @@ distribution_packages:
   - kubectl-get-all-bash-completion
   - kubectl-neat
   - kubectl-node-shell
+  - kubectl-np-viewer
   - kubectl-oomd
   - kubectl-operator
   - kubectl-outdated
