@@ -221,6 +221,7 @@ distribution_packages:
   - jq
   - k3b
   - k3sup
+  - k8senv
   - k8tz
   - k8tz-bash-completion
   - kail
