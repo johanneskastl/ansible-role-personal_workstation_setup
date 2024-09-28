@@ -319,6 +319,8 @@ distribution_packages:
   - linkerd-cli
   - linkerd-cli-bash-completion
   - locutus
+  - longhornctl
+  - longhornctl-bash-completion
   - lsof
   - make
   - mariadb-client
