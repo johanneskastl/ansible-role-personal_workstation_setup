@@ -191,6 +191,8 @@ distribution_packages:
   - harbor-cli-bash-completion
   - hcloud-cli
   - hcloud-cli-bash-completion
+  - hcloud-upload-image
+  - hcloud-upload-image-bash-completion
   - hdparm
   - helm
   - helm-bash-completion
