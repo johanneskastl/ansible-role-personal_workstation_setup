@@ -513,6 +513,8 @@ distribution_packages:
   - trivy
   - u-boot-tools
   - unzip
+  - updatecli
+  - updatecli-bash-completion
   - vagrant
   - vagrant-address
   - vagrant-hosts
