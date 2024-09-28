@@ -137,6 +137,7 @@ distribution_packages:
   - file-magic
   - findutils
   - findutils-lang
+  - firectl
   - firewalld
   - flatpak
   - flux2-cli
