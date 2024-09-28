@@ -149,6 +149,7 @@ distribution_packages:
   - fprintd-pam
   - frizbee
   - frizbee-bash-completion
+  - fstail
   - fuse-overlayfs
   - fuse3
   - fzf
