@@ -270,6 +270,8 @@ distribution_packages:
   - kubectl-cnpg
   - kubectl-cnpg-bash-completion
   - kubectl-community-images
+  - kubectl-cost
+  - kubectl-cost-bash-completion
   - kubectl-explore
   - kubectl-foreach
   - kubectl-get-all
