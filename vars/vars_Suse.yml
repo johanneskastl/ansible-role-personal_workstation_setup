@@ -379,6 +379,8 @@ distribution_packages:
   - obs-service-tar_scm
   - observatorium-cli
   - observatorium-cli-bash-completion
+  - okteto
+  - okteto-bash-completion
   - okular
   - okular-lang
   - openbao
