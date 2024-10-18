@@ -231,6 +231,7 @@ distribution_packages:
   - k8tz
   - k8tz-bash-completion
   - kail
+  - kanidm-clients
   - kate
   - kate-lang
   - kate-plugins
