@@ -180,6 +180,8 @@ distribution_packages:
   - grep-lang
   - grype
   - grype-bash-completion
+  - grype-db
+  - grype-db-bash-completion
   - gstreamer-plugin-openh264
   - gstreamer-plugin-pipewire
   - gstreamer-plugins-bad
