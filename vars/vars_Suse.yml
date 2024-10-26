@@ -278,6 +278,7 @@ distribution_packages:
   - kubectl-console
   - kubectl-cost
   - kubectl-cost-bash-completion
+  - kubectl-duplicate
   - kubectl-explore
   - kubectl-foreach
   - kubectl-get-all
