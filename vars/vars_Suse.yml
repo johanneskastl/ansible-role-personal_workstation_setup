@@ -55,6 +55,8 @@ distribution_packages:
   - argocd-image-updater-bash-completion
   - arlon-cli
   - arlon-cli-bash-completion
+  - arkade
+  - arkade-bash-completion
   - atril
   - audit2rbac
   - automake
