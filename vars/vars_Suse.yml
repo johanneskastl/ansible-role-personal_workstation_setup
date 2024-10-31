@@ -55,10 +55,10 @@ distribution_packages:
   - argocd-cli-bash-completion
   - argocd-image-updater
   - argocd-image-updater-bash-completion
-  - arlon-cli
-  - arlon-cli-bash-completion
   - arkade
   - arkade-bash-completion
+  - arlon-cli
+  - arlon-cli-bash-completion
   - atril
   - audit2rbac
   - automake
