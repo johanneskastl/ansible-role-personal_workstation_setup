@@ -106,6 +106,8 @@ distribution_packages:
   - difftastic-doc
   - diffutils
   - diffutils-lang
+  - digger-cli
+  - digger-cli-bash-completion
   - dino
   - dirvish
   - discord
