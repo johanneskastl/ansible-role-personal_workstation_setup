@@ -510,6 +510,7 @@ distribution_packages:
   - subversion
   - subversion-bash-completion
   - sudo
+  - swaks
   - syft
   - syft-bash-completion
   - tabloid
