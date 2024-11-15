@@ -524,6 +524,7 @@ distribution_packages:
   - tekton-cli
   - tekton-cli-bash-completion
   - teleport-tsh
+  - teleport-tsh-bash-completion
   - tempo-cli
   - termscp
   - terragrunt
