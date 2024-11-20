@@ -309,6 +309,8 @@ distribution_packages:
   - kubeshark-cli-bash-completion
   - kubesec
   - kubesec-bash-completion
+  - kubeswitch
+  - kubeswitch-bash-completion
   - kubetrim
   - kubetui
   - kubie
