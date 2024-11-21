@@ -51,6 +51,8 @@ distribution_packages:
   - apx-bash-completion
   - argocd-autopilot
   - argocd-autopilot-bash-completion
+  - argocd-diff-preview
+  - argocd-diff-preview-bash-completion
   - argocd-cli
   - argocd-cli-bash-completion
   - argocd-image-updater
