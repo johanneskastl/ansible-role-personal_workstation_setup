@@ -579,4 +579,5 @@ distribution_packages:
   - youtube-dl
   - yq
   - yubikey-manager
+  - zed
   - zypper-log
