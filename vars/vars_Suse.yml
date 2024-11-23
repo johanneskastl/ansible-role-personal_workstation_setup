@@ -325,6 +325,7 @@ distribution_packages:
   - kwalletmanager-lang
   - kyverno
   - kyverno-bash-completion
+  - lazygit
   - lego
   - less
   - libfprint
