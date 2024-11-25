@@ -535,6 +535,7 @@ distribution_packages:
   - tempo-cli
   - termscp
   - terragrunt
+  - testssl.sh
   - tftp
   - tmux
   - tokodon
