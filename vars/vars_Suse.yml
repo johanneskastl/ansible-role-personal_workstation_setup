@@ -201,7 +201,6 @@ distribution_packages:
   - gstreamer-plugins-ugly-lang
   - guestfs-tools
   - gzip
-  - hadolint
   - harbor-cli
   - harbor-cli-bash-completion
   - hcloud-cli
