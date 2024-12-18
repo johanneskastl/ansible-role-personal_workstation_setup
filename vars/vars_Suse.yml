@@ -84,6 +84,7 @@ distribution_packages:
   - bzip2
   - ca-certificates
   - ca-certificates-mozilla
+  - cargo
   - cdebug
   - cdebug-bash-completion
   - certgen
