@@ -236,6 +236,8 @@ distribution_packages:
   - isync
   - jless
   - jq
+  - jujutsu
+  - jujutsu-bash-completion
   - k3b
   - k3sup
   - k8senv
