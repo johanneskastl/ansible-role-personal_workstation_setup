@@ -455,7 +455,6 @@ distribution_packages:
   - python311-awx-cli
   - python311-flux-local
   - python311-hvac
-  - python311-hardeneks
   - python311-jsonschema
   - python311-kubernetes
   - python311-mkdocs
