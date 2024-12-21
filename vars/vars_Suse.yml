@@ -141,6 +141,7 @@ distribution_packages:
   - docker-compose-switch
   - docker-lock
   - doh
+  - dosbox
   - dosfstools
   - duplicity
   - eksctl
