@@ -180,6 +180,9 @@ distribution_packages:
   - fractal-lang
   - frizbee
   - frizbee-bash-completion
+  - fs-uae
+  - fs-uae-arcade
+  - fs-uae-launcher
   - fstail
   - fuse-overlayfs
   - fuse3
