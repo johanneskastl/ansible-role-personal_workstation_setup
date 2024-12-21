@@ -253,6 +253,7 @@ distribution_packages:
   - hubble-bash-completion
   - hugo
   - hugo-bash-completion
+  - ignition
   - inkscape
   - inkscape-lang
   - inspektor-gadget
