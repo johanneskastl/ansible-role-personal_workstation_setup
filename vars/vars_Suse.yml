@@ -622,6 +622,7 @@ distribution_packages:
   - tcpdump
   - tekton-cli
   - tekton-cli-bash-completion
+  - telemetrygen
   - teleport-tsh
   - teleport-tsh-bash-completion
   - tempo-cli
