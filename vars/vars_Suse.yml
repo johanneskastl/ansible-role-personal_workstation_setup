@@ -650,6 +650,7 @@ distribution_packages:
   - yarn
   - youtube-dl
   - yq
+  - yt-dlp-youtube-dl
   - yubikey-manager
   - zed
   - zypper-log
