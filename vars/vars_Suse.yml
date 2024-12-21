@@ -353,6 +353,8 @@ distribution_packages:
   - kubeshark-cli-bash-completion
   - kubeswitch
   - kubeswitch-bash-completion
+  - kubetail
+  - kubetail-bash-completion
   - kubetrim
   - kubetui
   - kubie
