@@ -450,6 +450,7 @@ distribution_packages:
   - okular-lang
   - openbao
   - openldap2-client
+  - openshot-qt
   - openssh
   - openssh-clients
   - openssh-common
