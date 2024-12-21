@@ -99,6 +99,7 @@ distribution_packages:
   - cifs-utils
   - cilium-cli
   - cilium-cli-bash-completion
+  - clairctl
   - clusterctl
   - clusterctl-bash-completion
   - cmctl
