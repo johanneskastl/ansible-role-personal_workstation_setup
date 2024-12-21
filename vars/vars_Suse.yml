@@ -493,6 +493,8 @@ distribution_packages:
   - pnpm
   - podman
   - podlet
+  - polaris
+  - polaris-bash-completion
   - popeye
   - poppler-tools
   - pulseaudio-bash-completion
