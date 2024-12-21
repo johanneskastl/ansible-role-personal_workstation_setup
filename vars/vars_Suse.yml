@@ -607,6 +607,8 @@ distribution_packages:
   - termscp
   - terragrunt
   - testssl.sh
+  - tetragon-cli
+  - tetragon-cli-bash-completion
   - tftp
   - tmux
   - tokodon
