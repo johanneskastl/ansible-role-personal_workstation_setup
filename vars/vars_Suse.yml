@@ -590,6 +590,8 @@ distribution_packages:
   - syft
   - syft-bash-completion
   - tabloid
+  - tail-tray
+  - tailscale
   - talhelper
   - talhelper-bash-completion
   - talosctl
