@@ -253,6 +253,8 @@ distribution_packages:
   - hugo-bash-completion
   - inkscape
   - inkscape-lang
+  - inspektor-gadget
+  - inspektor-gadget-bash-completion
   - iperf
   - iproute2
   - iptables
