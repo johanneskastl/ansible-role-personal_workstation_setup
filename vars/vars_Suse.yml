@@ -414,6 +414,8 @@ distribution_packages:
   - nextcloud-desktop
   - nextcloud-desktop-dolphin
   - nextcloud-desktop-lang
+  - nfpm
+  - nfpm-bash-completion
   - nfs-client
   - nfs-kernel-server
   - nmap
