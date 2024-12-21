@@ -35,6 +35,8 @@ distribution_packages:
   - ShellCheck
   - aacgain
   - age
+  - alpine
+  - alpine-branding-openSUSE
   - android-tools
   - android-tools-bash-completion
   - ansible
