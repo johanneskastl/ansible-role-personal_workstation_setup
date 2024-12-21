@@ -625,6 +625,7 @@ distribution_packages:
   - telemetrygen
   - teleport-tsh
   - teleport-tsh-bash-completion
+  - telnet
   - tempo-cli
   - termscp
   - terragrunt
