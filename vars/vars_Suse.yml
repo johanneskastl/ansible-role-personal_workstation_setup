@@ -527,6 +527,7 @@ distribution_packages:
   - python311-pytest-testinfra
   - python311-selinux
   - python311-semanage
+  - python311-setuptools_scm
   - python311-virtualenv
   - python311-yamllint
   - qemu-arm
