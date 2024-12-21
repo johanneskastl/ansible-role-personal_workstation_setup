@@ -347,10 +347,10 @@ distribution_packages:
   - kuberlr
   - kubescape
   - kubeseal
-  - kubeshark-cli
-  - kubeshark-cli-bash-completion
   - kubesec
   - kubesec-bash-completion
+  - kubeshark-cli
+  - kubeshark-cli-bash-completion
   - kubeswitch
   - kubeswitch-bash-completion
   - kubetrim
