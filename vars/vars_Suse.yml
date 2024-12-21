@@ -604,6 +604,7 @@ distribution_packages:
   - subversion
   - subversion-bash-completion
   - sudo
+  - sudo-policy-sudo-auth-self
   - swaks
   - syft
   - syft-bash-completion
