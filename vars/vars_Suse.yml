@@ -318,6 +318,7 @@ distribution_packages:
   - kube-bench-bash-completion
   - kube-linter
   - kube-linter-bash-completion
+  - kube-lock
   - kubearmor-client
   - kubearmor-client-bash-completion
   - kubeaudit
