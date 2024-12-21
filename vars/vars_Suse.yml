@@ -532,6 +532,7 @@ distribution_packages:
   - python311-setuptools_scm
   - python311-virtualenv
   - python311-yamllint
+  - qemu
   - qemu-arm
   - qemu-kvm
   - qemu-linux-user
