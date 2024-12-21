@@ -52,6 +52,8 @@ distribution_packages:
   - apache2-utils
   - apko
   - apko-bash-completion
+  - apkrane
+  - apkrane-bash-completion
   - apx
   - apx-bash-completion
   - argocd-autopilot
