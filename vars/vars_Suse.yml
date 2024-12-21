@@ -292,6 +292,8 @@ distribution_packages:
   - keepassxc
   - keybase-client
   - keychain
+  - kind
+  - kind-bash-completion
   - klog
   - klog-bash-completion
   - knative-cli
