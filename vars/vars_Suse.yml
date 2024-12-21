@@ -511,6 +511,7 @@ distribution_packages:
   - python3-pytest-ansible
   - python311-PyYAML
   - python311-awx-cli
+  - python311-cryptography
   - python311-demosh
   - python311-flux-local
   - python311-hvac
