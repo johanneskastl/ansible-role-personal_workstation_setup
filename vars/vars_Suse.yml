@@ -255,6 +255,7 @@ distribution_packages:
   - inkscape-lang
   - inspektor-gadget
   - inspektor-gadget-bash-completion
+  - iotop
   - iperf
   - iproute2
   - iptables
