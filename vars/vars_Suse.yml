@@ -326,6 +326,8 @@ distribution_packages:
   - kubeaudit
   - kubeaudit-bash-completion
   - kubeaudit-bash-completion
+  - kubectl-argo-rollouts
+  - kubectl-argo-rollouts-bash-completion
   - kubectl-browse-pvc
   - kubectl-capacity
   - kubectl-cnpg
