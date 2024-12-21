@@ -644,6 +644,7 @@ distribution_packages:
   - wireshark
   - wolfictl
   - wolfictl-bash-completion
+  - woodpecker-cli
   - xz
   - xz-lang
   - yarn
