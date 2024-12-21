@@ -608,6 +608,8 @@ distribution_packages:
   - swaks
   - syft
   - syft-bash-completion
+  - syntax-highlighting
+  - syntax-highlighting-imports
   - tabloid
   - tail-tray
   - tailscale
