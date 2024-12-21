@@ -416,6 +416,7 @@ distribution_packages:
   - mokutil
   - molecule
   - molecule-plugins
+  - mozilla-openh264
   - mtr
   - mutt
   - mutt-doc
