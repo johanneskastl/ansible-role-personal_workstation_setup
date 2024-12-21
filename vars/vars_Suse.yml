@@ -159,6 +159,7 @@ distribution_packages:
   - exiftool
   - falco-event-generator
   - falco-event-generator-bash-completion
+  - falcosidekick
   - fd
   - fd-bash-completion
   - file
