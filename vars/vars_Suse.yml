@@ -26,6 +26,7 @@ distribution_packages:
   - NetworkManager-bluetooth
   - NetworkManager-branding-openSUSE
   - NetworkManager-connection-editor
+  - NetworkManager-connection-editor-lang
   - NetworkManager-lang
   - NetworkManager-openvpn
   - NetworkManager-pptp
