@@ -202,7 +202,6 @@ distribution_packages:
   - glab-doc
   - glasskube-cli
   - glasskube-cli-bash-completion
-  - go1.22
   - go1.23
   - got
   - gpg2
