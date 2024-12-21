@@ -679,5 +679,7 @@ distribution_packages:
   - yt-dlp-youtube-dl
   - yubikey-manager
   - zed
+  - zellij
+  - zellij-bash-completion
   - zoxide
   - zypper-log
