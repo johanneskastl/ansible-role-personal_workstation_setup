@@ -327,6 +327,8 @@ distribution_packages:
   - kubectl-get-all
   - kubectl-get-all-bash-completion
   - kubectl-neat
+  - kubectl-netshoot
+  - kubectl-netshoot-bash-completion
   - kubectl-node-shell
   - kubectl-np-viewer
   - kubectl-oomd
