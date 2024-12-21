@@ -305,6 +305,8 @@ distribution_packages:
   - knative-cli-quickstart-plugin
   - knative-cli-quickstart-plugin-bash-completion
   - knot
+  - kompose
+  - kompose-bash-completion
   - konf
   - konf-bash-completion
   - kor
