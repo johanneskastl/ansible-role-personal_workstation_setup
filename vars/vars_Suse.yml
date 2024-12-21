@@ -116,6 +116,9 @@ distribution_packages:
   - cryptsetup
   - csctl
   - csctl-bash-completion
+  - darktable
+  - darktable-tools-basecurve
+  - darktable-tools-noise
   - devilspie2
   - difftastic
   - difftastic-doc
