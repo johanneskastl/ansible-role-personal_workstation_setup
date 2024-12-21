@@ -540,6 +540,8 @@ distribution_packages:
   - qemu-ui-gtk
   - rdfind
   - rebootmgr
+  - reckoner
+  - reckoner-bash-completion
   - regclient
   - regclient-bash-completion
   - reimage
