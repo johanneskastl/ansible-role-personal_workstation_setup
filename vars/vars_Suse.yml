@@ -642,6 +642,8 @@ distribution_packages:
   - unzip
   - updatecli
   - updatecli-bash-completion
+  - velero
+  - velero-bash-completion
   - vim
   - vim-data
   - vim-data-common
