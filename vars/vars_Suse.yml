@@ -176,6 +176,8 @@ distribution_packages:
   - fossil
   - fprintd
   - fprintd-pam
+  - fractal
+  - fractal-lang
   - frizbee
   - frizbee-bash-completion
   - fstail
