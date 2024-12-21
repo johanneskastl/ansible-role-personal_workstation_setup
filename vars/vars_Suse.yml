@@ -639,6 +639,7 @@ distribution_packages:
   - wget-lang
   - which
   - whois
+  - widelands
   - wireguard-tools
   - wireshark
   - wolfictl
