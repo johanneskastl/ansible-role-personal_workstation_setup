@@ -490,6 +490,7 @@ distribution_packages:
   - plasmatube-lang
   - pluto
   - pluto-bash-completion
+  - pnpm
   - podman
   - podlet
   - popeye
