@@ -34,6 +34,7 @@ distribution_packages:
   - NetworkManager-wwan
   - ShellCheck
   - aacgain
+  - adcli
   - age
   - alpine
   - alpine-branding-openSUSE
