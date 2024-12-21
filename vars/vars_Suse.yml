@@ -103,6 +103,7 @@ distribution_packages:
   - clusterctl
   - clusterctl-bash-completion
   - cmctl
+  - cmctl-bash-completion
   - codespell
   - conftest
   - conftest-bash-completion
