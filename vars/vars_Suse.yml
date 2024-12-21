@@ -48,6 +48,7 @@ distribution_packages:
   - ansible-navigator
   - ansible-runner
   - ansible-sign
+  - ansible-terraform-inventory
   - ansible-test
   - ansible-variables
   - apache2-utils
