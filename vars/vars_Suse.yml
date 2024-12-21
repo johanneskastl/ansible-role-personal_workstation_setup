@@ -313,6 +313,7 @@ distribution_packages:
   - kubearmor-client-bash-completion
   - kubeaudit
   - kubeaudit-bash-completion
+  - kubectl-browse-pvc
   - kubectl-capacity
   - kubectl-cnpg
   - kubectl-cnpg-bash-completion
