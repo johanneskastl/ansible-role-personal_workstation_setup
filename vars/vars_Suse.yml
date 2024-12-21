@@ -491,8 +491,8 @@ distribution_packages:
   - pluto
   - pluto-bash-completion
   - pnpm
-  - podman
   - podlet
+  - podman
   - polaris
   - polaris-bash-completion
   - popeye
