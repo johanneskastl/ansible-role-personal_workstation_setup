@@ -513,6 +513,7 @@ distribution_packages:
   - python311-awx-cli
   - python311-cryptography
   - python311-demosh
+  - python311-docutils
   - python311-flux-local
   - python311-hvac
   - python311-jsonschema
