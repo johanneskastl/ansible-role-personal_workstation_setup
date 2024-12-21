@@ -653,4 +653,5 @@ distribution_packages:
   - yt-dlp-youtube-dl
   - yubikey-manager
   - zed
+  - zoxide
   - zypper-log
