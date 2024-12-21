@@ -577,6 +577,7 @@ distribution_packages:
   - rust
   - s3cmd
   - salt-master
+  - samba-client
   - screen
   - scribus
   - sed
