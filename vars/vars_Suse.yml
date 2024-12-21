@@ -277,6 +277,8 @@ distribution_packages:
   - k8tz-bash-completion
   - kail
   - kanidm-clients
+  - kargo-cli
+  - kargo-cli-bash-completion
   - kate
   - kate-lang
   - kate-plugins
