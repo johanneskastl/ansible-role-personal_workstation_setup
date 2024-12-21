@@ -305,6 +305,8 @@ distribution_packages:
   - ksshaskpass6
   - ksshaskpass6-lang
   - ktop
+  - kube-bench
+  - kube-bench-bash-completion
   - kube-linter
   - kube-linter-bash-completion
   - kubearmor-client
