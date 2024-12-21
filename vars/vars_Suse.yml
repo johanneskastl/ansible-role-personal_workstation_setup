@@ -338,6 +338,7 @@ distribution_packages:
   - kubectl-pv-migrate-bash-completion
   - kubectl-retina
   - kubectl-retina-bash-completion
+  - kubectl-validate
   - kubectl-view-secret
   - kubeone
   - kubeone-bash-completion
