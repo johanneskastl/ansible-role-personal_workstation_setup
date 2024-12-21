@@ -499,6 +499,7 @@ distribution_packages:
   - policy-assistant-bash-completion
   - popeye
   - poppler-tools
+  - postfix-doc
   - pulseaudio-bash-completion
   - pulseaudio-setup
   - pulseaudio-utils
