@@ -203,6 +203,7 @@ distribution_packages:
   - glasskube-cli
   - glasskube-cli-bash-completion
   - go1.22
+  - golang-github-hashicorp-packer
   - got
   - gpg2
   - gpg2-lang
