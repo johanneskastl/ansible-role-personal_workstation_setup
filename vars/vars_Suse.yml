@@ -428,6 +428,7 @@ distribution_packages:
   - ntfs-3g
   - ntfsprogs
   - numactl
+  - nvme-cli
   - obs-service-cargo
   - obs-service-download_assets
   - obs-service-download_files
