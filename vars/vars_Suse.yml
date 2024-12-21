@@ -419,6 +419,8 @@ distribution_packages:
   - nfs-client
   - nfs-kernel-server
   - nmap
+  - noobaa-cli
+  - noobaa-cli-bash-completion
   - notary
   - nova
   - nova-bash-completion
