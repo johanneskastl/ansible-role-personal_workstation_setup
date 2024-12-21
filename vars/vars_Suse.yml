@@ -403,6 +403,8 @@ distribution_packages:
   - mtr
   - mutt
   - mutt-doc
+  - neochat
+  - neochat-lang
   - neomutt
   - neomutt-doc
   - nerdctl
