@@ -429,6 +429,8 @@ distribution_packages:
   - mesheryctl-bash-completion
   - minicom
   - minicom-lang
+  - minikube
+  - minikube-bash-completion
   - minio-client
   - mkosi
   - modem-manager-gui
