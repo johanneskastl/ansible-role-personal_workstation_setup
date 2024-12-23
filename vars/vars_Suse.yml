@@ -398,6 +398,11 @@ distribution_packages:
   - libfprint
   - libfprint-doc
   - libguestfs-bash-completion
+  - libreoffice
+  - libreoffice-calc
+  - libreoffice-impress
+  - libreoffice-l10n-de
+  - libreoffice-writer
   - libvirt
   - libvirt-client
   - libvirt-client-qemu
