@@ -147,6 +147,7 @@ distribution_packages:
   - dosfstools
   - duplicity
   - e2fsprogs
+  - eclint
   - eksctl
   - eksctl-bash-completion
   - element-desktop
