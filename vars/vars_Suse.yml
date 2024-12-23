@@ -564,6 +564,7 @@ distribution_packages:
   - python311-py2pack
   - python311-pynitrokey
   - python311-pytest-testinfra
+  - python311-pyvmomi
   - python311-selinux
   - python311-semanage
   - python311-setuptools
