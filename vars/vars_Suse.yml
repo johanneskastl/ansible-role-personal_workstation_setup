@@ -197,6 +197,7 @@ distribution_packages:
   - gajim-lang
   - gawk
   - gh
+  - ghostwriter
   - gimp
   - git-core
   - git-crypt
