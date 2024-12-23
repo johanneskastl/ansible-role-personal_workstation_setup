@@ -398,6 +398,7 @@ distribution_packages:
   - libfprint
   - libfprint-doc
   - libguestfs-bash-completion
+  - libmbim
   - libreoffice
   - libreoffice-calc
   - libreoffice-impress
@@ -417,6 +418,7 @@ distribution_packages:
   - mariadb-client
   - marvin
   - marvin-bash-completion
+  - mbimcli-bash-completion
   - melange
   - melange-bash-completion
   - meld
