@@ -244,6 +244,7 @@ distribution_packages:
   - helm-schema
   - helmfile
   - helmify
+  - helmtui
   - hetzner-flatcar
   - hostname
   - hplip
