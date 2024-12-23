@@ -200,6 +200,8 @@ distribution_packages:
   - ghostwriter
   - gimp
   - git-core
+  - git-credential-keepassxc
+  - git-credential-libsecret
   - git-crypt
   - gitea-tea
   - gitleaks
