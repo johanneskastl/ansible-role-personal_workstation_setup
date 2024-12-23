@@ -321,6 +321,8 @@ distribution_packages:
   - korb
   - ksshaskpass6
   - ksshaskpass6-lang
+  - ktexteditor
+  - ktexteditor-lang
   - ktop
   - kube-bench
   - kube-bench-bash-completion
