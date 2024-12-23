@@ -333,8 +333,6 @@ distribution_packages:
   - kubearmor-client
   - kubearmor-client-bash-completion
   - kubeaudit
-  - kubeaudit
-  - kubeaudit-bash-completion
   - kubeaudit-bash-completion
   - kubeconform
   - kubectl-argo-rollouts
