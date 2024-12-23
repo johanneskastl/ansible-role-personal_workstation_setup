@@ -585,6 +585,7 @@ distribution_packages:
   - regclient-bash-completion
   - reimage
   - reimage-bash-completion
+  - rekor
   - restic
   - restic-bash-completion
   - ripgrep
