@@ -415,6 +415,7 @@ distribution_packages:
   - longhornctl-bash-completion
   - lsof
   - make
+  - man
   - mariadb-client
   - marvin
   - marvin-bash-completion
