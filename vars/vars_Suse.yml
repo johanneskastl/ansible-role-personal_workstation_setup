@@ -668,6 +668,7 @@ distribution_packages:
   - unzip
   - updatecli
   - updatecli-bash-completion
+  - usbutils
   - vault
   - velero
   - velero-bash-completion
