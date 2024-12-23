@@ -657,6 +657,7 @@ distribution_packages:
   - testssl.sh
   - tetragon-cli
   - tetragon-cli-bash-completion
+  - tflint
   - tftp
   - tmux
   - tokodon
