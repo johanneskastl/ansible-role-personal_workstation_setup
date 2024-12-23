@@ -161,6 +161,7 @@ distribution_packages:
   - ethtool
   - evtest
   - exiftool
+  - expat
   - falco-event-generator
   - falco-event-generator-bash-completion
   - falcosidekick
