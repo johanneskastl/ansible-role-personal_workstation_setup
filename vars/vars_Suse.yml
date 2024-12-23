@@ -148,6 +148,7 @@ distribution_packages:
   - duplicity
   - e2fsprogs
   - eclint
+  - editorconfig-checker
   - eksctl
   - eksctl-bash-completion
   - element-desktop
