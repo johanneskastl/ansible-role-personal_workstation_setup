@@ -241,6 +241,7 @@ distribution_packages:
   - helm
   - helm-bash-completion
   - helm-docs
+  - helm-schema
   - helmfile
   - helmify
   - hetzner-flatcar
