@@ -419,6 +419,7 @@ distribution_packages:
   - marvin-bash-completion
   - mbimcli-bash-completion
   - mdbook
+  - mdbook-linkcheck
   - melange
   - melange-bash-completion
   - meld
