@@ -78,6 +78,8 @@ distribution_packages:
   - bat
   - bat-bash-completion
   - bind-utils
+  - bomctl
+  - bomctl-bash-completion
   - borgbackup
   - borgbackup-bash-completion
   - btrfsprogs
