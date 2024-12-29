@@ -539,6 +539,8 @@ distribution_packages:
   - popeye
   - poppler-tools
   - postfix-doc
+  - pq
+  - pq-bash-completion
   - pulseaudio-bash-completion
   - pulseaudio-setup
   - pulseaudio-utils
