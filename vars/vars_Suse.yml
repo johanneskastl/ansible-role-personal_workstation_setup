@@ -83,6 +83,7 @@ distribution_packages:
   - borgbackup
   - borgbackup-bash-completion
   - btrfsprogs
+  - bubblewrap
   - build
   - build-mkbaselibs
   - buildah
