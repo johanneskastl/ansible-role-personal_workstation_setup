@@ -549,7 +549,6 @@ distribution_packages:
   - python3-ansible-compat
   - python3-imapdedup
   - python3-mail-deduplicate
-  - python3-pynitrokey
   - python3-pytest-ansible
   - python311-PyYAML
   - python311-awx-cli
