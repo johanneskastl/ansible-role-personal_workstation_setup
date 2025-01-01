@@ -207,6 +207,7 @@ distribution_packages:
   - git-crypt
   - gitea-tea
   - gitleaks
+  - gitui
   - glab
   - glab-bash-completion
   - glab-doc
