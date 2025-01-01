@@ -429,6 +429,9 @@ distribution_packages:
   - meld-lang
   - mesheryctl
   - mesheryctl-bash-completion
+  - mercurial
+  - mercurial-lang
+  - mercurial-extension-hg-git
   - minicom
   - minicom-lang
   - minikube
