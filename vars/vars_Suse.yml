@@ -89,7 +89,6 @@ distribution_packages:
   - buildkit
   - buildpacks-cli
   - buildpacks-cli-bash-completion
-  - bundlewrap
   - butane
   - bzip2
   - ca-certificates
