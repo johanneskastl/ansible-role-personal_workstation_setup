@@ -716,5 +716,6 @@ distribution_packages:
   - zed
   - zellij
   - zellij-bash-completion
+  - zizmor
   - zoxide
   - zypper-log
