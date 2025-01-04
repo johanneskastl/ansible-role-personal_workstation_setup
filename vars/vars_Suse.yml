@@ -278,6 +278,7 @@ distribution_packages:
   - istioctl-bash-completion
   - isync
   - jless
+  - jj-fzf
   - jq
   - jujutsu
   - jujutsu-bash-completion
