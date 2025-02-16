@@ -553,9 +553,12 @@ distribution_packages:
   - pulseaudio-utils
   - purge-kernels-service
   - python3-ansible-compat
+  - python3-grummage
+  - python3-grype2html
   - python3-imapdedup
   - python3-mail-deduplicate
   - python3-pytest-ansible
+  - python3-sbommage
   - python311-PyYAML
   - python311-awx-cli
   - python311-cryptography
