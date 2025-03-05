@@ -546,6 +546,7 @@ distribution_packages:
   - popeye
   - poppler-tools
   - postfix-doc
+  - postgresql
   - pq
   - pq-bash-completion
   - pulseaudio-bash-completion
