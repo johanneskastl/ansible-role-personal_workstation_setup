@@ -560,30 +560,30 @@ distribution_packages:
   - python3-mail-deduplicate
   - python3-pytest-ansible
   - python3-sbommage
-  - python311-PyYAML
-  - python311-awx-cli
-  - python311-cryptography
-  - python311-demosh
-  - python311-docutils
-  - python311-flux-local
-  - python311-hvac
-  - python311-jsonschema
-  - python311-kubernetes
-  - python311-mkdocs
-  - python311-passlib
-  - python311-podman-compose
-  - python311-pre-commit
-  - python311-proxmoxer
-  - python311-py2pack
-  - python311-pynitrokey
-  - python311-pytest-testinfra
-  - python311-pyvmomi
-  - python311-selinux
-  - python311-semanage
-  - python311-setuptools
-  - python311-setuptools_scm
-  - python311-virtualenv
-  - python311-yamllint
+  - python313-PyYAML
+  - python313-awx-cli
+  - python313-cryptography
+  - python313-demosh
+  - python313-docutils
+  - python313-flux-local
+  - python313-hvac
+  - python313-jsonschema
+  - python313-kubernetes
+  - python313-mkdocs
+  - python313-passlib
+  - python313-podman-compose
+  - python313-pre-commit
+  - python313-proxmoxer
+  - python313-py2pack
+  - python313-pynitrokey
+  - python313-pytest-testinfra
+  - python313-pyvmomi
+  - python313-selinux
+  - python313-semanage
+  - python313-setuptools
+  - python313-setuptools_scm
+  - python313-virtualenv
+  - python313-yamllint
   - qemu
   - qemu-arm
   - qemu-kvm
