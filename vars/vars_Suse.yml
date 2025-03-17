@@ -368,6 +368,8 @@ distribution_packages:
   - kubectl-retina-bash-completion
   - kubectl-validate
   - kubectl-view-secret
+  - kubehound
+  - kubehound-bash-completion
   - kubeone
   - kubeone-bash-completion
   - kubepug
