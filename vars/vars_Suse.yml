@@ -284,6 +284,8 @@ distribution_packages:
   - jujutsu-bash-completion
   - k3b
   - k3sup
+  - k6
+  - k6-bash-completion
   - k8senv
   - k8tz
   - k8tz-bash-completion
