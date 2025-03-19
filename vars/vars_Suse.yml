@@ -615,7 +615,7 @@ distribution_packages:
   - rpmkey-packman
   - rssguard
   - rsync
-  - ruby3.3-rubygem-mdl
+  - ruby3.4-rubygem-mdl
   - rust
   - s3cmd
   - salt-master
