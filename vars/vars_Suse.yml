@@ -615,7 +615,6 @@ distribution_packages:
   - ruby3.4-rubygem-mdl
   - rust
   - s3cmd
-  - salt-master
   - samba-client
   - screen
   - scribus
