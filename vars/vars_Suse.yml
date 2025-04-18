@@ -578,6 +578,7 @@ distribution_packages:
   - python313-py2pack
   - python313-pynitrokey
   - python313-pytest-testinfra
+  - python313-python-gitlab
   - python313-pyvmomi
   - python313-selinux
   - python313-semanage
