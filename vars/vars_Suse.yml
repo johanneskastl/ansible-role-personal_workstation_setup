@@ -567,6 +567,7 @@ distribution_packages:
   - python313-demosh
   - python313-docutils
   - python313-flux-local
+  - python313-gitlabcis
   - python313-hvac
   - python313-jsonschema
   - python313-kubernetes
