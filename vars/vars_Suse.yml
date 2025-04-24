@@ -333,6 +333,8 @@ distribution_packages:
   - kube-linter-bash-completion
   - kube-lock
   - kube-no-trouble
+  - kube-review
+  - kube-review-bash-completion
   - kubearmor-client
   - kubearmor-client-bash-completion
   - kubeaudit
