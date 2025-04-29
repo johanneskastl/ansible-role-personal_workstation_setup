@@ -595,6 +595,7 @@ distribution_packages:
   - qemu-linux-user
   - qemu-ui-curses
   - qemu-ui-gtk
+  - rancher-cli
   - rdfind
   - rebootmgr
   - reckoner
