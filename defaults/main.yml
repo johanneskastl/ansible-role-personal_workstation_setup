@@ -4,6 +4,7 @@
 flathub_repository: 'https://flathub.org/repo/flathub.flatpakrepo'
 flathub_system: false
 flatpak_packages:
+  - app.freelens.Freelens
   - com.github.tenderowl.frog
   - com.slack.Slack
   - com.vscodium.codium
