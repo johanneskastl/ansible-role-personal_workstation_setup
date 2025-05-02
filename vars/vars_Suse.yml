@@ -121,6 +121,8 @@ distribution_packages:
   - cryptsetup
   - csctl
   - csctl-bash-completion
+  - ctlptl
+  - ctlptl-bash-completion
   - darktable
   - darktable-tools-basecurve
   - darktable-tools-noise
