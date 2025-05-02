@@ -276,8 +276,10 @@ distribution_packages:
   - istioctl
   - istioctl-bash-completion
   - isync
-  - jless
+  - jfrog-cli
+  - jfrog-cli-bash-completion
   - jj-fzf
+  - jless
   - jq
   - jujutsu
   - jujutsu-bash-completion
