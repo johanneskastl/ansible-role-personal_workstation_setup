@@ -98,6 +98,8 @@ distribution_packages:
   - cdebug
   - cdebug-bash-completion
   - certgen
+  - chainguard-dfc
+  - chainguard-dfc-bash-completion
   - chart-testing
   - checkbashisms
   - chrony
