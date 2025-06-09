@@ -732,5 +732,7 @@ distribution_packages:
   - zellij
   - zellij-bash-completion
   - zizmor
+  - zola
+  - zola-bash-completion
   - zoxide
   - zypper-log
