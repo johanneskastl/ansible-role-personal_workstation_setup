@@ -164,6 +164,7 @@ distribution_packages:
   - etckeeper-bash-completion
   - ethtool
   - evtest
+  - exfatprogs
   - exiftool
   - expat
   - falco-event-generator
