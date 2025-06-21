@@ -12,8 +12,7 @@ None.
 ## Role Variables
 
 - `additional_flatpak_packages` (List of Strings): List of Flatpaks to install,
-  in addition to the ones in `flatpak_packages` that is role sets (see below)
-- `` (List of Strings):
+  in addition to the ones in `flatpak_packages` that this role sets (see below)
 
 ### Optional variables
 
@@ -38,7 +37,7 @@ None
 ```yaml
 - hosts: servers
   roles:
-    - role: 'johanneskastl.personal_workstation_setup'
+    - role: johanneskastl.personal_workstation_setup
 ```
 
 ## License
@@ -47,4 +46,4 @@ BSD-3-Clause
 
 ## Author Information
 
-I am Johannes Kastl, reachable via kastl@b1-systems.de.
+I am Johannes Kastl, reachable via git@johannes-kastl.de
