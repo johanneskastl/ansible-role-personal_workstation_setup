@@ -12,6 +12,7 @@
   become: true
   when:
     - ansible_distribution == "openSUSE Tumbleweed"
+      or ansible_distribution == "openSUSE Tumbleweed-Slowroll"
 
 - name: 'Install packages via zypper without a reboot'
   community.general.zypper:
@@ -20,6 +21,7 @@
   become: true
   when:
     - ansible_distribution == "openSUSE Tumbleweed"
+      or ansible_distribution == "openSUSE Tumbleweed-Slowroll"
 
 - name: 'Install additional packages via zypper without a reboot'
   community.general.zypper:
@@ -28,6 +30,7 @@
   become: true
   when:
     - ansible_distribution == "openSUSE Tumbleweed"
+      or ansible_distribution == "openSUSE Tumbleweed-Slowroll"
     - additional_distribution_packages is defined
 
 #
