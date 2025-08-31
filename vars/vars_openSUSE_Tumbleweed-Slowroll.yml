@@ -1,0 +1,4 @@
+---
+# personal_workstation_setup/vars/vars_openSUSE_Tumbleweed-Slowroll.yml
+
+# openSUSE Slowroll is currently not recognized as ansible_os_family Suse
