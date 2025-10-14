@@ -329,6 +329,8 @@ distribution_packages:
   - konf-bash-completion
   - kor
   - korb
+  - krelay
+  - krelay-bash-completion
   - ksshaskpass6
   - ksshaskpass6-lang
   - ktexteditor
