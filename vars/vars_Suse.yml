@@ -399,6 +399,7 @@ distribution_packages:
   - kubetail-bash-completion
   - kubetrim
   - kubetui
+  - kubevirt-virtctl
   - kubie
   - kubie-bash-completion
   - kustomize
