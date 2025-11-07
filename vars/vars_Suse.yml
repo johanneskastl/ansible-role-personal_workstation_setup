@@ -539,6 +539,8 @@ distribution_packages:
   - pdftk
   - perses-cli
   - perses-cli-bash-completion
+  - pinact
+  - pinact-bash-completion
   - pinentry-qt5
   - pinniped
   - pinniped-bash-completion
