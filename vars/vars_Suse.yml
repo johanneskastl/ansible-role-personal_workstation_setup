@@ -694,6 +694,7 @@ distribution_packages:
   - toolbox
   - totem
   - trivy
+  - trufflehog
   - u-boot-tools
   - unzip
   - updatecli
