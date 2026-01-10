@@ -630,7 +630,7 @@ distribution_packages:
   - rpmkey-packman
   - rssguard
   - rsync
-  - ruby3.4-rubygem-mdl
+  - ruby4.0-rubygem-mdl
   - rust
   - s3cmd
   - samba-client
