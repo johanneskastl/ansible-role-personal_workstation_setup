@@ -547,7 +547,7 @@ distribution_packages:
   - pinniped-bash-completion
   - pipewire-aptx
   - pipewire-lang
-  - plasma-nm5-openvpn
+  - plasma6-nm-openvpn
   - plasmatube
   - plasmatube-lang
   - pluto
