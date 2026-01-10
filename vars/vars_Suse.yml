@@ -387,8 +387,9 @@ distribution_packages:
   - kubepug
   - kubepug-bash-completion
   - kuberlr
-  - kubernetes-client
-  - kubernetes-client-bash-completion
+  - kubernetes1.35-client
+  - kubernetes1.35-client-common
+  - kubernetes1.35-client-bash-completion
   - kubescape
   - kubeseal
   - kubesec
