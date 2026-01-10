@@ -52,7 +52,6 @@ distribution_packages:
   - ansible-sign
   - ansible-terraform-inventory
   - ansible-test
-  - ansible-variables
   - apache2-utils
   - apko
   - apko-bash-completion
