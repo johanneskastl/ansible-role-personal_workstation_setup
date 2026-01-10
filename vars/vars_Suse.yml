@@ -20,6 +20,8 @@ distribution_packages:
   - MozillaFirefox-branding-openSUSE
   - MozillaFirefox-translations-common
   - MozillaThunderbird
+  - MozillaThunderbird-openpgp-librnp
+  - MozillaThunderbird-translations-common
   - NetworkManager
   - NetworkManager-applet
   - NetworkManager-applet-lang
