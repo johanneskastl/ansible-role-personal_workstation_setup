@@ -542,7 +542,7 @@ distribution_packages:
   - perses-cli-bash-completion
   - pinact
   - pinact-bash-completion
-  - pinentry-qt5
+  - pinentry-qt6
   - pinniped
   - pinniped-bash-completion
   - pipewire-aptx
