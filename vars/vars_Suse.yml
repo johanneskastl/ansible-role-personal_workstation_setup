@@ -271,6 +271,7 @@ distribution_packages:
   - hugo
   - hugo-bash-completion
   - ignition
+  - incus-os-flashertool
   - inkscape
   - inkscape-lang
   - inspektor-gadget
