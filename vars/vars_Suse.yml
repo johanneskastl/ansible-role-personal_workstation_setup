@@ -202,6 +202,8 @@ distribution_packages:
   - gajim-lang
   - gawk
   - gh
+  - ghtkn
+  - ghtkn-bash-completion
   - ghostwriter
   - gimp
   - git-core
