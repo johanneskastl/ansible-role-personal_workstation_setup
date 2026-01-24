@@ -27,6 +27,8 @@ None.
 - `distribution_packages_to_remove` (List of Strings): RPM packages to be
   uninstalled
 - `distribution_packages` (List of Strings): RPM packages to be installed
+- `additional_distribution_packages` (List of Strings): variable to specify
+  additional packages to install
 
 ## Dependencies
 
