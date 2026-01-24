@@ -73,6 +73,8 @@ distribution_packages:
   - arlon-cli
   - arlon-cli-bash-completion
   - atril
+  - atril-backends
+  - atril-lang
   - audit2rbac
   - automake
   - aws-cli
