@@ -133,7 +133,6 @@ distribution_packages:
   - darktable
   - darktable-tools-basecurve
   - darktable-tools-noise
-  - device-mapper
   - devilspie2
   - difftastic
   - difftastic-doc
