@@ -9,6 +9,90 @@ distribution_packages_to_remove:
   - PackageKit-branding-openSUSE
   - PackageKit-lang
 
+additional_distribution_packages:
+  - aacgain
+  - alpine
+  - alpine-branding-openSUSE
+  - android-tools
+  - android-tools-bash-completion
+  - borgbackup
+  - borgbackup-bash-completion
+  - build
+  - build-mkbaselibs
+  - darktable
+  - darktable-tools-basecurve
+  - darktable-tools-noise
+  - devilspie2
+  - dino
+  - discord
+  - dosbox
+  - element-desktop
+  - element-web
+  - encfs
+  - espanso
+  - etckeeper
+  - etckeeper-bash-completion
+  - fractal
+  - fractal-lang
+  - fs-uae
+  - fs-uae-arcade
+  - fs-uae-launcher
+  - gajim
+  - gajim-lang
+  - hplip
+  - hplip-sane
+  - hugo
+  - hugo-bash-completion
+  - isync
+  - k3b
+  - keybase-client
+  - keychain
+  - kuberlr
+  - kubernetes1.35-client
+  - kubernetes1.35-client-bash-completion
+  - kubernetes1.35-client-common
+  - lego
+  - modem-manager-gui
+  - mutt
+  - mutt-doc
+  - neochat
+  - neochat-lang
+  - neomutt
+  - neomutt-doc
+  - obs-service-cargo
+  - obs-service-download_assets
+  - obs-service-download_files
+  - obs-service-format_spec_file
+  - obs-service-go_modules
+  - obs-service-node_modules
+  - obs-service-obs_scm
+  - obs-service-obs_scm-common
+  - obs-service-recompress
+  - obs-service-set_version
+  - obs-service-source_validator
+  - obs-service-tar
+  - obs-service-tar_scm
+  - osc
+  - osc-plugin-pcheck
+  - osclib
+  - ovmf
+  - python3-imapdedup
+  - python3-mail-deduplicate
+  - rpmdevtools
+  - rssguard
+  - signal-desktop
+  - spec-cleaner
+  - tabloid
+  - tail-tray
+  - tailscale
+  - tftp
+  - tokodon
+  - u-boot-tools
+  - weechat
+  - widelands
+  - youtube-dl
+  - yt-dlp-youtube-dl
+
 distribution_packages:
   - 7zip
   - ImageMagick
@@ -37,13 +121,8 @@ distribution_packages:
   - NetworkManager-tui
   - NetworkManager-wwan
   - ShellCheck
-  - aacgain
   - adcli
   - age
-  - alpine
-  - alpine-branding-openSUSE
-  - android-tools
-  - android-tools-bash-completion
   - ansible
   - ansible-builder
   - ansible-core
@@ -85,11 +164,7 @@ distribution_packages:
   - bind-utils
   - bomctl
   - bomctl-bash-completion
-  - borgbackup
-  - borgbackup-bash-completion
   - btrfsprogs
-  - build
-  - build-mkbaselibs
   - buildah
   - buildkit
   - buildpacks-cli
@@ -129,19 +204,13 @@ distribution_packages:
   - csctl-bash-completion
   - ctlptl
   - ctlptl-bash-completion
-  - darktable
-  - darktable-tools-basecurve
-  - darktable-tools-noise
-  - devilspie2
   - difftastic
   - difftastic-doc
   - diffutils
   - diffutils-lang
   - digger-cli
   - digger-cli-bash-completion
-  - dino
   - dirvish
-  - discord
   - distrobox
   - distrobox-bash-completion
   - dive
@@ -150,7 +219,6 @@ distribution_packages:
   - docker-compose
   - docker-lock
   - doh
-  - dosbox
   - dos2unix
   - dosfstools
   - duplicity
@@ -159,13 +227,7 @@ distribution_packages:
   - editorconfig-checker
   - eksctl
   - eksctl-bash-completion
-  - element-desktop
-  - element-web
   - emacs-nox
-  - encfs
-  - espanso
-  - etckeeper
-  - etckeeper-bash-completion
   - ethtool
   - evtest
   - exfatprogs
@@ -189,20 +251,13 @@ distribution_packages:
   - fortio
   - fprintd
   - fprintd-pam
-  - fractal
-  - fractal-lang
   - frizbee
   - frizbee-bash-completion
-  - fs-uae
-  - fs-uae-arcade
-  - fs-uae-launcher
   - fstail
   - fuse-overlayfs
   - fuse3
   - fzf
   - fzf-bash-integration
-  - gajim
-  - gajim-lang
   - gawk
   - gh
   - ghtkn
@@ -263,15 +318,11 @@ distribution_packages:
   - helmtui
   - hetzner-flatcar
   - hostname
-  - hplip
   - hplip-hpijs
-  - hplip-sane
   - hplip-udev-rules
   - htop
   - hubble
   - hubble-bash-completion
-  - hugo
-  - hugo-bash-completion
   - ignition
   - incus-os-flashertool
   - inkscape
@@ -285,14 +336,12 @@ distribution_packages:
   - iputils
   - istioctl
   - istioctl-bash-completion
-  - isync
   - jfrog-cli
   - jfrog-cli-bash-completion
   - jless
   - jq
   - jujutsu
   - jujutsu-bash-completion
-  - k3b
   - k3sup
   - k6
   - k6-bash-completion
@@ -315,8 +364,6 @@ distribution_packages:
   - keepassxc
   - keepassxc-lang
   - kexec-tools
-  - keybase-client
-  - keychain
   - kind
   - kind-bash-completion
   - klog
@@ -393,10 +440,6 @@ distribution_packages:
   - kubeone-bash-completion
   - kubepug
   - kubepug-bash-completion
-  - kuberlr
-  - kubernetes1.35-client
-  - kubernetes1.35-client-common
-  - kubernetes1.35-client-bash-completion
   - kubescape
   - kubeseal
   - kubesec
@@ -420,7 +463,6 @@ distribution_packages:
   - kyverno
   - kyverno-bash-completion
   - lazygit
-  - lego
   - less
   - libfprint
   - libfprint-doc
@@ -465,18 +507,11 @@ distribution_packages:
   - minikube-bash-completion
   - minio-client
   - mkosi
-  - modem-manager-gui
   - mokutil
   - molecule
   - molecule-plugins
   - mozilla-openh264
   - mtr
-  - mutt
-  - mutt-doc
-  - neochat
-  - neochat-lang
-  - neomutt
-  - neomutt-doc
   - nerdctl
   - netfetch
   - netfetch-bash-completion
@@ -499,19 +534,6 @@ distribution_packages:
   - ntfsprogs
   - numactl
   - nvme-cli
-  - obs-service-cargo
-  - obs-service-download_assets
-  - obs-service-download_files
-  - obs-service-format_spec_file
-  - obs-service-go_modules
-  - obs-service-node_modules
-  - obs-service-obs_scm
-  - obs-service-obs_scm-common
-  - obs-service-recompress
-  - obs-service-set_version
-  - obs-service-source_validator
-  - obs-service-tar
-  - obs-service-tar_scm
   - observatorium-cli
   - observatorium-cli-bash-completion
   - okteto
@@ -530,11 +552,7 @@ distribution_packages:
   - operator-sdk-bash-completion
   - oras
   - oras-bash-completion
-  - osc
-  - osc-plugin-pcheck
-  - osclib
   - osv-scanner
-  - ovmf
   - pam_krb5
   - pam_kwallet6
   - pam_kwallet6-common
@@ -588,8 +606,6 @@ distribution_packages:
   - python3-ansible-compat
   - python3-grummage
   - python3-grype2html
-  - python3-imapdedup
-  - python3-mail-deduplicate
   - python3-pytest-ansible
   - python3-sbommage
   - python313-PyYAML
@@ -640,9 +656,7 @@ distribution_packages:
   - ripgrep-bash-completion
   - roxctl
   - roxctl-bash-completion
-  - rpmdevtools
   - rpmkey-packman
-  - rssguard
   - rsync
   - ruby4.0-rubygem-mdl
   - rumdl
@@ -653,7 +667,6 @@ distribution_packages:
   - scribus
   - sed
   - sed-lang
-  - signal-desktop
   - silver-surfer
   - skaffold
   - skaffold-bash-completion
@@ -663,7 +676,6 @@ distribution_packages:
   - sonobuoy
   - sonobuoy-bash-completion
   - sops
-  - spec-cleaner
   - spectacle
   - spectacle-lang
   - squashfs
@@ -682,9 +694,6 @@ distribution_packages:
   - syft-bash-completion
   - syntax-highlighting
   - syntax-highlighting-imports
-  - tabloid
-  - tail-tray
-  - tailscale
   - talhelper
   - talhelper-bash-completion
   - talosctl
@@ -705,15 +714,12 @@ distribution_packages:
   - tetragon-cli
   - tetragon-cli-bash-completion
   - tflint
-  - tftp
   - tmux
-  - tokodon
   - toolbox
   - totem
   - tree
   - trivy
   - trufflehog
-  - u-boot-tools
   - unzip
   - update-bootloader
   - updatecli
@@ -735,14 +741,12 @@ distribution_packages:
   - vlc-qt
   - weave-gitops
   - weave-gitops-bash-completion
-  - weechat
   - werf
   - werf-bash-completion
   - wget
   - wget-lang
   - which
   - whois
-  - widelands
   - wireguard-tools
   - wireshark
   - wolfictl
@@ -751,9 +755,7 @@ distribution_packages:
   - xz
   - xz-lang
   - yarn
-  - youtube-dl
   - yq
-  - yt-dlp-youtube-dl
   - yubikey-manager
   - zellij
   - zellij-bash-completion
