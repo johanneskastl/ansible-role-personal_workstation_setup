@@ -561,6 +561,8 @@ distribution_packages:
   - pinniped-bash-completion
   - pipewire-aptx
   - pipewire-lang
+  - plasma6-nm-l2tp
+  - plasma6-nm-lang
   - plasma6-nm-openvpn
   - plasma6-print-manager
   - plasma6-print-manager-lang
