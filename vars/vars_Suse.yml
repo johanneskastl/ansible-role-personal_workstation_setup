@@ -343,6 +343,8 @@ distribution_packages:
   - krelay-bash-completion
   - ksshaskpass6
   - ksshaskpass6-lang
+  - korganizer
+  - korganizer-lang
   - ktexteditor
   - ktexteditor-lang
   - ktop
