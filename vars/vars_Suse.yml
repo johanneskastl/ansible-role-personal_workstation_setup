@@ -640,8 +640,6 @@ distribution_packages:
   - restic-bash-completion
   - ripgrep
   - ripgrep-bash-completion
-  - rke
-  - rke2
   - roxctl
   - roxctl-bash-completion
   - rpmdevtools
