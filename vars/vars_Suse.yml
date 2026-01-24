@@ -203,6 +203,7 @@ distribution_packages:
   - fuse-overlayfs
   - fuse3
   - fzf
+  - fzf-bash-integration
   - gajim
   - gajim-lang
   - gawk
