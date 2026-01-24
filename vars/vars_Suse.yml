@@ -32,6 +32,8 @@ distribution_packages:
   - NetworkManager-lang
   - NetworkManager-openvpn
   - NetworkManager-pptp
+  - NetworkManager-strongswan
+  - NetworkManager-strongswan-lang
   - NetworkManager-tui
   - NetworkManager-wwan
   - ShellCheck
