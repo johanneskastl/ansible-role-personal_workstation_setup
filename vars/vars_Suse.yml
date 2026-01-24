@@ -665,6 +665,7 @@ distribution_packages:
   - skaffold-bash-completion
   - skopeo
   - skupper
+  - snapper
   - sonobuoy
   - sonobuoy-bash-completion
   - sops
