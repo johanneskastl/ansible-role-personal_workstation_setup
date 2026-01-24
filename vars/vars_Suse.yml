@@ -439,6 +439,7 @@ distribution_packages:
   - libvirt-client
   - libvirt-client-qemu
   - libvirt-daemon
+  - libvirt-daemon-driver-qemu
   - linkerd-cli
   - linkerd-cli-bash-completion
   - locutus
