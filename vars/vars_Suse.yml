@@ -651,6 +651,7 @@ distribution_packages:
   - rssguard
   - rsync
   - ruby4.0-rubygem-mdl
+  - rumdl
   - rust
   - s3cmd
   - samba-client
