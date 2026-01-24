@@ -310,7 +310,6 @@ distribution_packages:
   - kate-plugins
   - kbom
   - kbom-bash-completion
-  - kcbench
   - kdenlive
   - kdenlive-lang
   - kdialog
