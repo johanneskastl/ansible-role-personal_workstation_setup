@@ -187,7 +187,6 @@ distribution_packages:
   - flux2-cli-bash-completion
   - forgejo-cli
   - fortio
-  - fossil
   - fprintd
   - fprintd-pam
   - fractal
