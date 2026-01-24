@@ -319,6 +319,7 @@ distribution_packages:
   - kdialog
   - kdialog-lang
   - keepassxc
+  - keepassxc-lang
   - keybase-client
   - keychain
   - kind
