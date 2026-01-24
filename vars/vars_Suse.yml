@@ -125,7 +125,6 @@ distribution_packages:
   - cosign
   - crane
   - crossplane-cli
-  - cryptsetup
   - csctl
   - csctl-bash-completion
   - ctlptl
