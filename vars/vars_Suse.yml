@@ -320,6 +320,7 @@ distribution_packages:
   - kdialog-lang
   - keepassxc
   - keepassxc-lang
+  - kexec-tools
   - keybase-client
   - keychain
   - kind
