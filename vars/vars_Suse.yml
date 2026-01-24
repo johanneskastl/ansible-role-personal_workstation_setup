@@ -153,6 +153,7 @@ distribution_packages:
   - docker-lock
   - doh
   - dosbox
+  - dos2unix
   - dosfstools
   - duplicity
   - e2fsprogs
