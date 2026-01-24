@@ -716,6 +716,7 @@ distribution_packages:
   - tokodon
   - toolbox
   - totem
+  - tree
   - trivy
   - trufflehog
   - u-boot-tools
