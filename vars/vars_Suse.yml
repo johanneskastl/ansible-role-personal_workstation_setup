@@ -603,26 +603,26 @@ distribution_packages:
   - pulseaudio-setup
   - pulseaudio-utils
   - purge-kernels-service
+  - python3-awx-cli
+  - python3-demosh
+  - python3-flux-local
+  - python3-gitlabcis
   - python3-grummage
   - python3-grype2html
+  - python3-hvac
+  - python3-kubernetes
+  - python3-passlib
+  - python3-podman-compose
+  - python3-pre-commit
+  - python3-py2pack
+  - python3-pynitrokey
+  - python3-python-gitlab
+  - python3-pyvmomi
   - python3-sbommage
-  - python313-awx-cli
-  - python313-demosh
-  - python313-flux-local
-  - python313-gitlabcis
-  - python313-hvac
-  - python313-kubernetes
-  - python313-passlib
-  - python313-podman-compose
-  - python313-pre-commit
-  - python313-py2pack
-  - python313-pynitrokey
-  - python313-python-gitlab
-  - python313-pyvmomi
-  - python313-selinux
-  - python313-semanage
-  - python313-virtualenv
-  - python313-yamllint
+  - python3-selinux
+  - python3-semanage
+  - python3-virtualenv
+  - python3-yamllint
   - qemu
   - qemu-arm
   - qemu-kvm
