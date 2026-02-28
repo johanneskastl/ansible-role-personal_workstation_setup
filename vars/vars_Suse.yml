@@ -630,6 +630,7 @@ distribution_packages:
   - qemu-ui-curses
   - qemu-ui-gtk
   - rancher-cli
+  - rawtherapee
   - rdfind
   - rebootmgr
   - reckoner
