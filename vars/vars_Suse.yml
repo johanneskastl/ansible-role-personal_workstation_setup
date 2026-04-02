@@ -505,7 +505,6 @@ distribution_packages:
   - minicom-lang
   - minikube
   - minikube-bash-completion
-  - minio-client
   - mkosi
   - mokutil
   - molecule
