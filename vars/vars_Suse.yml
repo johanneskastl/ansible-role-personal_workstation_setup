@@ -651,6 +651,8 @@ distribution_packages:
   - rumdl
   - rust
   - s3cmd
+  - s5cmd
+  - s5cmd-bash-completion
   - samba-client
   - screen
   - scribus
