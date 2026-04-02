@@ -340,6 +340,8 @@ distribution_packages:
   - jfrog-cli-bash-completion
   - jless
   - jq
+  - jsongrep
+  - jsongrep-bash-completion
   - jujutsu
   - jujutsu-bash-completion
   - k3sup
