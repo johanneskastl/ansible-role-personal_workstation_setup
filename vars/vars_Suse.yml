@@ -632,6 +632,8 @@ distribution_packages:
   - qemu-ui-gtk
   - rancher-cli
   - rawtherapee
+  - rclone
+  - rclone-bash-completion
   - rdfind
   - rebootmgr
   - reckoner
