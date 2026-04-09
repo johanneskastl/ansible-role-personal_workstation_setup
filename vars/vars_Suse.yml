@@ -674,6 +674,7 @@ distribution_packages:
   - spectacle
   - spectacle-lang
   - squashfs
+  - sshping
   - step-cli
   - step-cli-bash-completion
   - stern
