@@ -655,6 +655,8 @@ distribution_packages:
   - rumdl
   - rust
   - s3cmd
+  - s3sync
+  - s3sync-bash-completion
   - s5cmd
   - s5cmd-bash-completion
   - samba-client
