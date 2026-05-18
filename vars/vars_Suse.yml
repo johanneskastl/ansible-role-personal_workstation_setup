@@ -17,6 +17,7 @@ additional_distribution_packages:
   - android-tools-bash-completion
   - borgbackup
   - borgbackup-bash-completion
+  - borgbackup-fish-completion
   - build
   - build-mkbaselibs
   - darktable
@@ -49,6 +50,7 @@ additional_distribution_packages:
   - kubernetes1.35-client
   - kubernetes1.35-client-bash-completion
   - kubernetes1.35-client-common
+  - kubernetes1.35-client-fish-completion
   - lego
   - modem-manager-gui
   - mutt
@@ -134,10 +136,13 @@ distribution_packages:
   - apache2-utils
   - apko
   - apko-bash-completion
+  - apko-fish-completion
   - apkrane
   - apkrane-bash-completion
+  - apkrane-fish-completion
   - apx
   - apx-bash-completion
+  - apx-fish-completion
   - argocd-autopilot
   - argocd-autopilot-bash-completion
   - argocd-cli
@@ -145,10 +150,12 @@ distribution_packages:
   - argocd-diff-preview
   - argocd-image-updater
   - argocd-image-updater-bash-completion
+  - argocd-image-updater-fish-completion
   - arkade
   - arkade-bash-completion
   - arlon-cli
   - arlon-cli-bash-completion
+  - arlon-cli-fish-completion
   - atril
   - atril-backends
   - atril-lang
@@ -157,14 +164,17 @@ distribution_packages:
   - bash-completion
   - bat
   - bat-bash-completion
+  - bat-fish-completion
   - bind-utils
   - bomctl
   - bomctl-bash-completion
+  - bomctl-fish-completion
   - btrfsprogs
   - buildah
   - buildkit
   - buildpacks-cli
   - buildpacks-cli-bash-completion
+  - buildpacks-cli-fish-completion
   - bundlewrap
   - butane
   - bzip2
@@ -173,31 +183,39 @@ distribution_packages:
   - cargo
   - cdebug
   - cdebug-bash-completion
+  - cdebug-fish-completion
   - certgen
   - chainguard-dfc
   - chainguard-dfc-bash-completion
+  - chainguard-dfc-fish-completion
   - chart-testing
   - checkbashisms
   - chrony
   - cifs-utils
   - cilium-cli
   - cilium-cli-bash-completion
+  - cilium-cli-fish-completion
   - clairctl
   - clusterctl
   - clusterctl-bash-completion
+  - clusterctl-fish-completion
   - cmctl
   - cmctl-bash-completion
+  - cmctl-fish-completion
   - codespell
   - conftest
   - conftest-bash-completion
+  - conftest-fish-completion
   - copacetic
   - copacetic-bash-completion
+  - copacetic-fish-completion
   - coreos-installer
   - cosign
   - crane
   - crossplane-cli
   - csctl
   - csctl-bash-completion
+  - csctl-fish-completion
   - ctlptl
   - ctlptl-bash-completion
   - difftastic
@@ -206,6 +224,7 @@ distribution_packages:
   - diffutils-lang
   - digger-cli
   - digger-cli-bash-completion
+  - digger-cli-fish-completion
   - dirvish
   - distrobox
   - distrobox-bash-completion
@@ -223,6 +242,7 @@ distribution_packages:
   - editorconfig-checker
   - eksctl
   - eksctl-bash-completion
+  - eksctl-fish-completion
   - emacs-nox
   - ethtool
   - evtest
@@ -231,9 +251,11 @@ distribution_packages:
   - expat
   - falco-event-generator
   - falco-event-generator-bash-completion
+  - falco-event-generator-fish-completion
   - falcosidekick
   - fd
   - fd-bash-completion
+  - fd-fish-completion
   - file
   - file-magic
   - findutils
@@ -243,6 +265,7 @@ distribution_packages:
   - flatpak
   - flux2-cli
   - flux2-cli-bash-completion
+  - flux2-cli-fish-completion
   - forgejo-cli
   - fortio
   - fprintd
@@ -259,6 +282,7 @@ distribution_packages:
   - ghostwriter
   - ghtkn
   - ghtkn-bash-completion
+  - ghtkn-fish-completion
   - gimp
   - git-core
   - git-credential-keepassxc
@@ -270,8 +294,10 @@ distribution_packages:
   - glab
   - glab-bash-completion
   - glab-doc
+  - glab-fish-completion
   - glasskube-cli
   - glasskube-cli-bash-completion
+  - glasskube-cli-fish-completion
   - got
   - gpg2
   - gpg2-lang
@@ -279,12 +305,15 @@ distribution_packages:
   - gptfdisk
   - grant
   - grant-bash-completion
+  - grant-fish-completion
   - grep
   - grep-lang
   - grype
   - grype-bash-completion
   - grype-db
   - grype-db-bash-completion
+  - grype-db-fish-completion
+  - grype-fish-completion
   - gstreamer-plugin-pipewire
   - gstreamer-plugins-bad
   - gstreamer-plugins-bad-lang
@@ -300,14 +329,17 @@ distribution_packages:
   - handbrake-gtk
   - harbor-cli
   - harbor-cli-bash-completion
+  - harbor-cli-fish-completion
   - hcloud-cli
   - hcloud-cli-bash-completion
+  - hcloud-cli-fish-completion
   - hcloud-upload-image
   - hcloud-upload-image-bash-completion
   - hdparm
   - helm
   - helm-bash-completion
   - helm-docs
+  - helm-fish-completion
   - helm-schema
   - helmfile
   - helmify
@@ -319,12 +351,14 @@ distribution_packages:
   - htop
   - hubble
   - hubble-bash-completion
+  - hubble-fish-completion
   - ignition
   - incus-os-flashertool
   - inkscape
   - inkscape-lang
   - inspektor-gadget
   - inspektor-gadget-bash-completion
+  - inspektor-gadget-fish-completion
   - iotop
   - iperf
   - iproute2
@@ -334,27 +368,34 @@ distribution_packages:
   - istioctl-bash-completion
   - jfrog-cli
   - jfrog-cli-bash-completion
+  - jfrog-cli-fish-completion
   - jless
   - jq
   - jsongrep
   - jsongrep-bash-completion
+  - jsongrep-fish-completion
   - jujutsu
   - jujutsu-bash-completion
+  - jujutsu-fish-completion
   - k3sup
   - k6
   - k6-bash-completion
+  - k6-fish-completion
   - k8senv
   - k8tz
   - k8tz-bash-completion
+  - k8tz-fish-completion
   - kail
   - kanidm-clients
   - kargo-cli
   - kargo-cli-bash-completion
+  - kargo-cli-fish-completion
   - kate
   - kate-lang
   - kate-plugins
   - kbom
   - kbom-bash-completion
+  - kbom-fish-completion
   - kdenlive
   - kdenlive-lang
   - kdialog
@@ -364,8 +405,10 @@ distribution_packages:
   - kexec-tools
   - kind
   - kind-bash-completion
+  - kind-fish-completion
   - klog
   - klog-bash-completion
+  - klog-fish-completion
   - knative-cli
   - knative-cli-bash-completion
   - knative-cli-func-plugin
@@ -377,6 +420,7 @@ distribution_packages:
   - knot
   - kompose
   - kompose-bash-completion
+  - kompose-fish-completion
   - konf
   - konf-bash-completion
   - kor
@@ -385,6 +429,7 @@ distribution_packages:
   - korganizer-lang
   - krelay
   - krelay-bash-completion
+  - krelay-fish-completion
   - ksshaskpass6
   - ksshaskpass6-lang
   - ktexteditor
@@ -392,27 +437,34 @@ distribution_packages:
   - ktop
   - kube-bench
   - kube-bench-bash-completion
+  - kube-bench-fish-completion
   - kube-linter
   - kube-linter-bash-completion
   - kube-lock
   - kube-no-trouble
   - kube-review
   - kube-review-bash-completion
+  - kube-review-fish-completion
   - kubearmor-client
   - kubearmor-client-bash-completion
+  - kubearmor-client-fish-completion
   - kubeaudit
   - kubeaudit-bash-completion
+  - kubeaudit-fish-completion
   - kubeconform
   - kubectl-argo-rollouts
   - kubectl-argo-rollouts-bash-completion
+  - kubectl-argo-rollouts-fish-completion
   - kubectl-browse-pvc
   - kubectl-capacity
   - kubectl-cnpg
   - kubectl-cnpg-bash-completion
+  - kubectl-cnpg-fish-completion
   - kubectl-community-images
   - kubectl-console
   - kubectl-cost
   - kubectl-cost-bash-completion
+  - kubectl-cost-fish-completion
   - kubectl-df-pv
   - kubectl-duplicate
   - kubectl-explore
@@ -422,6 +474,7 @@ distribution_packages:
   - kubectl-neat
   - kubectl-netshoot
   - kubectl-netshoot-bash-completion
+  - kubectl-netshoot-fish-completion
   - kubectl-node-shell
   - kubectl-np-viewer
   - kubectl-oomd
@@ -429,31 +482,40 @@ distribution_packages:
   - kubectl-outdated
   - kubectl-pv-migrate
   - kubectl-pv-migrate-bash-completion
+  - kubectl-pv-migrate-fish-completion
   - kubectl-retina
   - kubectl-retina-bash-completion
+  - kubectl-retina-fish-completion
   - kubectl-validate
   - kubectl-view-secret
   - kubehound
   - kubehound-bash-completion
+  - kubehound-fish-completion
   - kubeone
   - kubeone-bash-completion
   - kubepug
   - kubepug-bash-completion
+  - kubepug-fish-completion
   - kubescape
   - kubeseal
   - kubesec
   - kubesec-bash-completion
+  - kubesec-fish-completion
   - kubeshark-cli
   - kubeshark-cli-bash-completion
+  - kubeshark-cli-fish-completion
   - kubeswitch
   - kubeswitch-bash-completion
+  - kubeswitch-fish-completion
   - kubetail
   - kubetail-bash-completion
+  - kubetail-fish-completion
   - kubetrim
   - kubetui
   - kubevirt-virtctl
   - kubie
   - kubie-bash-completion
+  - kubie-fish-completion
   - kustomize
   - kwalletd6
   - kwalletd6-lang
@@ -461,6 +523,7 @@ distribution_packages:
   - kwalletmanager-lang
   - kyverno
   - kyverno-bash-completion
+  - kyverno-fish-completion
   - lazygit
   - less
   - libfprint
@@ -479,30 +542,36 @@ distribution_packages:
   - libvirt-daemon-driver-qemu
   - linkerd-cli
   - linkerd-cli-bash-completion
+  - linkerd-cli-fish-completion
   - locutus
   - longhornctl
   - longhornctl-bash-completion
+  - longhornctl-fish-completion
   - lsof
   - make
   - man
   - mariadb-client
   - marvin
   - marvin-bash-completion
+  - marvin-fish-completion
   - mbimcli-bash-completion
   - mdbook
   - mdbook-linkcheck
   - melange
   - melange-bash-completion
+  - melange-fish-completion
   - meld
   - meld-lang
   - mercurial
   - mercurial-lang
   - mesheryctl
   - mesheryctl-bash-completion
+  - mesheryctl-fish-completion
   - minicom
   - minicom-lang
   - minikube
   - minikube-bash-completion
+  - minikube-fish-completion
   - mkosi
   - mokutil
   - molecule
@@ -512,12 +581,14 @@ distribution_packages:
   - nerdctl
   - netfetch
   - netfetch-bash-completion
+  - netfetch-fish-completion
   - nextcloud-cli
   - nextcloud-desktop
   - nextcloud-desktop-dolphin
   - nextcloud-desktop-lang
   - nfpm
   - nfpm-bash-completion
+  - nfpm-fish-completion
   - nfs-client
   - nfs-kernel-server
   - nmap
@@ -526,6 +597,7 @@ distribution_packages:
   - notary
   - nova
   - nova-bash-completion
+  - nova-fish-completion
   - npm-default
   - ntfs-3g
   - ntfsprogs
@@ -533,8 +605,10 @@ distribution_packages:
   - nvme-cli
   - observatorium-cli
   - observatorium-cli-bash-completion
+  - observatorium-cli-fish-completion
   - okteto
   - okteto-bash-completion
+  - okteto-fish-completion
   - okular
   - okular-lang
   - openbao
@@ -547,8 +621,10 @@ distribution_packages:
   - opentofu
   - operator-sdk
   - operator-sdk-bash-completion
+  - operator-sdk-fish-completion
   - oras
   - oras-bash-completion
+  - oras-fish-completion
   - osv-scanner
   - pam_krb5
   - pam_kwallet6
@@ -556,6 +632,7 @@ distribution_packages:
   - pam_u2f
   - paranoia
   - paranoia-bash-completion
+  - paranoia-fish-completion
   - patch
   - patchutils
   - pavucontrol
@@ -565,11 +642,14 @@ distribution_packages:
   - pdftk
   - perses-cli
   - perses-cli-bash-completion
+  - perses-cli-fish-completion
   - pinact
   - pinact-bash-completion
+  - pinact-fish-completion
   - pinentry-qt6
   - pinniped
   - pinniped-bash-completion
+  - pinniped-fish-completion
   - pipewire-aptx
   - pipewire-lang
   - plasma6-nm-l2tp
@@ -581,21 +661,26 @@ distribution_packages:
   - plasmatube-lang
   - pluto
   - pluto-bash-completion
+  - pluto-fish-completion
   - pnpm
   - podlet
   - podman
   - polaris
   - polaris-bash-completion
+  - polaris-fish-completion
   - policy-assistant
   - policy-assistant-bash-completion
+  - policy-assistant-fish-completion
   - popeye
   - poppler-tools
   - postfix-doc
   - postgresql
   - pq
   - pq-bash-completion
+  - pq-fish-completion
   - prek
   - prek-bash-completion
+  - prek-fish-completion
   - pulseaudio-bash-completion
   - pulseaudio-setup
   - pulseaudio-utils
@@ -633,15 +718,19 @@ distribution_packages:
   - rebootmgr
   - reckoner
   - reckoner-bash-completion
+  - reckoner-fish-completion
   - regclient
   - regclient-bash-completion
+  - regclient-fish-completion
   - reimage
   - reimage-bash-completion
+  - reimage-fish-completion
   - rekor
   - restic
   - restic-bash-completion
   - ripgrep
   - ripgrep-bash-completion
+  - ripgrep-fish-completion
   - roxctl
   - roxctl-bash-completion
   - rpmkey-packman
@@ -652,8 +741,10 @@ distribution_packages:
   - s3cmd
   - s3sync
   - s3sync-bash-completion
+  - s3sync-fish-completion
   - s5cmd
   - s5cmd-bash-completion
+  - s5cmd-fish-completion
   - samba-client
   - screen
   - scribus
@@ -662,11 +753,13 @@ distribution_packages:
   - silver-surfer
   - skaffold
   - skaffold-bash-completion
+  - skaffold-fish-completion
   - skopeo
   - skupper
   - snapper
   - sonobuoy
   - sonobuoy-bash-completion
+  - sonobuoy-fish-completion
   - sops
   - spectacle
   - spectacle-lang
@@ -685,17 +778,20 @@ distribution_packages:
   - swaks
   - syft
   - syft-bash-completion
+  - syft-fish-completion
   - syntax-highlighting
   - syntax-highlighting-imports
   - talhelper
   - talhelper-bash-completion
   - talosctl
   - talosctl-bash-completion
+  - talosctl-fish-completion
   - tar
   - tar-lang
   - tcpdump
   - tekton-cli
   - tekton-cli-bash-completion
+  - tekton-cli-fish-completion
   - telemetrygen
   - teleport-tsh
   - teleport-tsh-bash-completion
@@ -706,6 +802,7 @@ distribution_packages:
   - testssl.sh
   - tetragon-cli
   - tetragon-cli-bash-completion
+  - tetragon-cli-fish-completion
   - tflint
   - tmux
   - toolbox
@@ -717,10 +814,12 @@ distribution_packages:
   - update-bootloader
   - updatecli
   - updatecli-bash-completion
+  - updatecli-fish-completion
   - usbutils
   - vault
   - velero
   - velero-bash-completion
+  - velero-fish-completion
   - vim
   - vim-data
   - vim-data-common
@@ -734,8 +833,10 @@ distribution_packages:
   - vlc-qt
   - weave-gitops
   - weave-gitops-bash-completion
+  - weave-gitops-fish-completion
   - werf
   - werf-bash-completion
+  - werf-fish-completion
   - wget
   - wget-lang
   - which
@@ -744,6 +845,7 @@ distribution_packages:
   - wireshark
   - wolfictl
   - wolfictl-bash-completion
+  - wolfictl-fish-completion
   - woodpecker-cli
   - xz
   - xz-lang
@@ -752,8 +854,10 @@ distribution_packages:
   - yubikey-manager
   - zellij
   - zellij-bash-completion
+  - zellij-fish-completion
   - zizmor
   - zola
   - zola-bash-completion
+  - zola-fish-completion
   - zoxide
   - zypper-log
