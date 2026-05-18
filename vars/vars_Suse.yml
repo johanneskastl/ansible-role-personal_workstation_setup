@@ -381,12 +381,12 @@ distribution_packages:
   - konf-bash-completion
   - kor
   - korb
+  - korganizer
+  - korganizer-lang
   - krelay
   - krelay-bash-completion
   - ksshaskpass6
   - ksshaskpass6-lang
-  - korganizer
-  - korganizer-lang
   - ktexteditor
   - ktexteditor-lang
   - ktop
