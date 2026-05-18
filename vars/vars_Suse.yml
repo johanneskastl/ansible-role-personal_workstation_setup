@@ -612,7 +612,6 @@ distribution_packages:
   - python3-podman-compose
   - python3-pre-commit
   - python3-py2pack
-  - python3-pynitrokey
   - python3-python-gitlab
   - python3-pyvmomi
   - python3-sbommage
