@@ -256,9 +256,9 @@ distribution_packages:
   - fzf-bash-integration
   - gawk
   - gh
+  - ghostwriter
   - ghtkn
   - ghtkn-bash-completion
-  - ghostwriter
   - gimp
   - git-core
   - git-credential-keepassxc
