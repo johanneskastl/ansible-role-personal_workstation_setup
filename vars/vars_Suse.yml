@@ -495,10 +495,10 @@ distribution_packages:
   - melange-bash-completion
   - meld
   - meld-lang
-  - mesheryctl
-  - mesheryctl-bash-completion
   - mercurial
   - mercurial-lang
+  - mesheryctl
+  - mesheryctl-bash-completion
   - minicom
   - minicom-lang
   - minikube
