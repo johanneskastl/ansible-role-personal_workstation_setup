@@ -156,7 +156,6 @@ distribution_packages:
   - atril-lang
   - audit2rbac
   - automake
-  - aws-cli
   - azure-cli
   - bash-completion
   - bat
