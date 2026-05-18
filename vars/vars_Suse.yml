@@ -26,8 +26,6 @@ additional_distribution_packages:
   - dino
   - discord
   - dosbox
-  - element-desktop
-  - element-web
   - encfs
   - espanso
   - etckeeper
