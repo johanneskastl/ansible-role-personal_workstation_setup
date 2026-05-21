@@ -811,6 +811,9 @@ distribution_packages:
   - tree
   - trivy
   - trufflehog
+  - typst
+  - typst-bash-completion
+  - typst-fish-completion
   - unzip
   - update-bootloader
   - updatecli
