@@ -161,6 +161,7 @@ distribution_packages:
   - atril-lang
   - audit2rbac
   - automake
+  - b4n
   - bash-completion
   - bat
   - bat-bash-completion
