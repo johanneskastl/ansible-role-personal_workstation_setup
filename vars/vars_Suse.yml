@@ -11,6 +11,7 @@ distribution_packages_to_remove:
 
 additional_distribution_packages:
   - aacgain
+  - actionlint
   - alpine
   - alpine-branding-openSUSE
   - android-tools
