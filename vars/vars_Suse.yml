@@ -45,6 +45,8 @@ additional_distribution_packages:
   - hugo-bash-completion
   - isync
   - k3b
+  - kdeconnect-kde
+  - kdeconnect-kde-lang
   - keybase-client
   - keychain
   - kuberlr
