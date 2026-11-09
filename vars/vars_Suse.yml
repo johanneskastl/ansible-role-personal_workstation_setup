@@ -289,13 +289,14 @@ distribution_packages:
   - ghtkn-bash-completion
   - ghtkn-fish-completion
   - gimp
-  - gitbutler-cli
-  - gitbutler-cli-bash-completion
-  - gitbutler-cli-fish-completion
   - git-core
   - git-credential-keepassxc
   - git-credential-libsecret
   - git-crypt
+  - git-spice
+  - gitbutler-cli
+  - gitbutler-cli-bash-completion
+  - gitbutler-cli-fish-completion
   - gitea-tea
   - gitleaks
   - gitui
