@@ -72,6 +72,7 @@ additional_distribution_packages:
   - obs-service-obs_scm-common
   - obs-service-recompress
   - obs-service-roast
+  - obs-service-roast_scm
   - obs-service-set_version
   - obs-service-source_validator
   - obs-service-tar
